@@ -1,0 +1,224 @@
+ExifTool Version Number         : 12.57
+File Name                       : 55.jpg
+Directory                       : .
+File Size                       : 8.9 MB
+File Modification Date/Time     : 2023:08:06 03:05:13-04:00
+File Access Date/Time           : 2023:08:06 03:18:08-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop Lightroom Classic 12.1 (Macintosh)
+Modify Date                     : 2023:01:10 18:25:20
+Exif Version                    : 0231
+Create Date                     : 2023:01:10 18:03:56
+Offset Time                     : -05:00
+Offset Time Digitized           : -05:00
+Color Space                     : sRGB
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 382
+Thumbnail Length                : 22645
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Current IPTC Digest             : 9871a3d9f7a5ef3164f6754a0573630a
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Object Name                     : TGTS Sketchbook Texture - LARGE
+Digital Creation Date           : 2023:01:10
+Digital Creation Time           : 18:03:56-05:00
+Photoshop Thumbnail             : (Binary data 22645 bytes, use -b option to extract)
+IPTC Digest                     : 9871a3d9f7a5ef3164f6754a0573630a
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+XMP Toolkit                     : Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00
+Artwork Title                   : TGTS Sketchbook Texture - LARGE
+Format                          : image/jpeg
+Document ID                     : xmp.did:14d35bba-3449-42e3-bd3a-a8445515728f
+Instance ID                     : xmp.iid:14d35bba-3449-42e3-bd3a-a8445515728f
+Original Document ID            : 9CEA167A442CB9753300E63FF91686C1
+Preserved File Name             : OVECK6529.jpg
+Metadata Date                   : 2023:01:10 18:25:20-05:00
+Creator Tool                    : Adobe Photoshop Lightroom Classic 12.1 (Macintosh)
+Raw File Name                   : OVECK6529.jpg
+Version                         : 15.1
+Process Version                 : 11.0
+White Balance                   : As Shot
+Incremental Temperature         : 0
+Incremental Tint                : 0
+Exposure 2012                   : 0.00
+Contrast 2012                   : 0
+Highlights 2012                 : 0
+Shadows 2012                    : 0
+Whites 2012                     : 0
+Blacks 2012                     : 0
+Texture                         : +15
+Clarity 2012                    : 0
+Dehaze                          : +9
+Vibrance                        : 0
+Saturation                      : 0
+Parametric Shadows              : 0
+Parametric Darks                : +16
+Parametric Lights               : +15
+Parametric Highlights           : +29
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpness                       : 0
+Luminance Smoothing             : 0
+Color Noise Reduction           : 0
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Grade Midtone Lum         : 0
+Color Grade Highlight Lum       : 0
+Color Grade Blending            : 50
+Color Grade Global Hue          : 0
+Color Grade Global Sat          : 0
+Color Grade Global Lum          : 0
+Auto Lateral CA                 : 0
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Vignette Amount                 : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Aspect              : 0
+Perspective Scale               : 100
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Grain Amount                    : 0
+Grain Size                      : 4
+Grain Frequency                 : 33
+Post Crop Vignette Amount       : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Convert To Grayscale            : False
+Override Look Vignette          : False
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Embedded
+Camera Profile Digest           : 54650A341B5B5CCAE8442D0B43A92BCE
+Has Settings                    : True
+Crop Top                        : 0
+Crop Left                       : 0
+Crop Bottom                     : 1
+Crop Right                      : 1
+Crop Angle                      : 0
+Crop Constrain To Warp          : 0
+Has Crop                        : False
+Already Applied                 : True
+Title                           : TGTS Sketchbook Texture - LARGE
+Text Layer Name                 : FREEDOM, TO TRANSACT
+Text Layer Text                 : FREEDOM, TO TRANSACT
+Document Ancestors              : 90EF9105491CE1D50E12A4C5062CECFE, 9AFFAD9C50E2CB9CD3D1842797ACD00D, C964FE1906579246D64BFC5F52B46211
+History Action                  : saved, saved, derived, saved
+History Instance ID             : xmp.iid:a5b5d283-ddde-46c1-8aec-77f3344bb19a, xmp.iid:bbffa2e5-be43-4477-95a6-f5dabef0f05c, xmp.iid:14d35bba-3449-42e3-bd3a-a8445515728f
+History When                    : 2023:01:10 18:18:49-05:00, 2023:01:10 18:18:49-05:00, 2023:01:10 18:25:20-05:00
+History Software Agent          : Adobe Photoshop 24.1 (Macintosh), Adobe Photoshop 24.1 (Macintosh), Adobe Photoshop Lightroom Classic 12.1 (Macintosh)
+History Changed                 : /, /, /
+History Parameters              : saved to new location
+Derived From Instance ID        : xmp.iid:bbffa2e5-be43-4477-95a6-f5dabef0f05c
+Derived From Document ID        : adobe:docid:photoshop:d7b4df92-ad03-6844-8626-d7515878d145
+Derived From Original Document ID: 9CEA167A442CB9753300E63FF91686C1
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 2896
+Image Height                    : 4096
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 2896x4096
+Megapixels                      : 11.9
+Create Date                     : 2023:01:10 18:03:56-05:00
+Modify Date                     : 2023:01:10 18:25:20-05:00
+Thumbnail Image                 : (Binary data 22645 bytes, use -b option to extract)
+Digital Creation Date/Time      : 2023:01:10 18:03:56-05:00

@@ -1,0 +1,23 @@
+ExifTool Version Number         : 12.57
+File Name                       : 82.gif
+Directory                       : .
+File Size                       : 50 MB
+File Modification Date/Time     : 2023:08:06 03:05:48-04:00
+File Access Date/Time           : 2023:08:06 03:18:38-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 2994
+Image Height                    : 2994
+Has Color Map                   : Yes
+Color Resolution Depth          : 8
+Bits Per Pixel                  : 8
+Background Color                : 0
+Animation Iterations            : Infinite
+Frame Count                     : 34
+Duration                        : 3.40 s
+Image Size                      : 2994x2994
+Megapixels                      : 9.0

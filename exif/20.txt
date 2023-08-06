@@ -1,0 +1,39 @@
+ExifTool Version Number         : 12.57
+File Name                       : 20.png
+Directory                       : .
+File Size                       : 5.0 MB
+File Modification Date/Time     : 2023:08:06 03:04:41-04:00
+File Access Date/Time           : 2023:08:06 03:30:57-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 2000
+Image Height                    : 2000
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Pixels Per Unit X               : 2835
+Pixels Per Unit Y               : 2835
+Pixel Units                     : meters
+XMP Toolkit                     : Adobe XMP Core 7.1-c000 79.9ccc4de93, 2022/03/14-14:07:22
+Modify Date                     : 2022:09:26 14:12:50-04:00
+Create Date                     : 2022:09:22 20:49:05
+Metadata Date                   : 2022:09:26 14:12:50-04:00
+Date Created                    : 2022:09:22 20:49:05-04:00
+Color Mode                      : RGB
+Format                          : image/png
+Instance ID                     : xmp.iid:c14474f5-2769-4923-a912-7f002dd9a0e7
+Document ID                     : xmp.did:c14474f5-2769-4923-a912-7f002dd9a0e7
+Original Document ID            : xmp.did:c14474f5-2769-4923-a912-7f002dd9a0e7
+Subject                         : 
+History Action                  : saved
+History Instance ID             : xmp.iid:c14474f5-2769-4923-a912-7f002dd9a0e7
+History When                    : 2022:09:26 14:12:50-04:00
+History Software Agent          : Adobe Photoshop 23.3 (Macintosh)
+History Changed                 : /
+Image Size                      : 2000x2000
+Megapixels                      : 4.0

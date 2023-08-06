@@ -1,0 +1,30 @@
+ExifTool Version Number         : 12.57
+File Name                       : 22.gif
+Directory                       : .
+File Size                       : 12 MB
+File Modification Date/Time     : 2023:08:06 03:04:43-04:00
+File Access Date/Time           : 2023:08:06 03:26:46-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 1200
+Image Height                    : 1600
+Has Color Map                   : Yes
+Color Resolution Depth          : 8
+Bits Per Pixel                  : 8
+Background Color                : 255
+Animation Iterations            : Infinite
+XMP Toolkit                     : Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39
+Creator Tool                    : Adobe Photoshop CC 2018 (Windows)
+Instance ID                     : xmp.iid:097A313330DE11ED9021C80AB468A97E
+Document ID                     : xmp.did:097A313430DE11ED9021C80AB468A97E
+Derived From Instance ID        : xmp.iid:097A313130DE11ED9021C80AB468A97E
+Derived From Document ID        : xmp.did:097A313230DE11ED9021C80AB468A97E
+Transparent Color               : 255
+Frame Count                     : 16
+Duration                        : 0.48 s
+Image Size                      : 1200x1600
+Megapixels                      : 1.9

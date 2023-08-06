@@ -1,0 +1,312 @@
+ExifTool Version Number         : 12.57
+File Name                       : 92.jpg
+Directory                       : .
+File Size                       : 9.6 MB
+File Modification Date/Time     : 2023:08:06 03:06:11-04:00
+File Access Date/Time           : 2023:08:06 03:18:51-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Photometric Interpretation      : RGB
+Make                            : SONY
+Camera Model Name               : ILCE-7C
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 3
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 23.1 (Windows)
+Modify Date                     : 2023:04:28 13:14:44
+Exposure Time                   : 1/320
+F Number                        : 8.0
+Exposure Program                : Manual
+ISO                             : 800
+Sensitivity Type                : Recommended Exposure Index
+Recommended Exposure Index      : 800
+Exif Version                    : 0232
+Date/Time Original              : 2020:03:15 00:11:50
+Create Date                     : 2020:03:15 00:11:50
+Offset Time                     : +07:00
+Offset Time Original            : +07:00
+Offset Time Digitized           : +07:00
+Shutter Speed Value             : 1/320
+Aperture Value                  : 8.0
+Brightness Value                : 5.95859375
+Exposure Compensation           : 0
+Max Aperture Value              : 4.0
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 12.0 mm
+Sub Sec Time                    : 045
+Sub Sec Time Original           : 045
+Sub Sec Time Digitized          : 045
+Color Space                     : Uncalibrated
+Exif Image Width                : 4000
+Exif Image Height               : 6000
+Focal Plane X Resolution        : 1677.417969
+Focal Plane Y Resolution        : 1677.417969
+Focal Plane Resolution Unit     : cm
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Manual
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 12 mm
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Lens Info                       : 12-24mm f/4
+Lens Model                      : FE 12-24mm F4 G
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 1098
+Thumbnail Length                : 8081
+Current IPTC Digest             : fcc678fe0e8a51626278df7b9047152e
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Time Created                    : 00:11:50+07:00
+Digital Creation Date           : 2020:03:15
+IPTC Digest                     : fcc678fe0e8a51626278df7b9047152e
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : discord_ang
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 8081 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2022
+Photoshop Quality               : 12
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 7.1-c000 79.eda2b3f, 2021/11/14-12:30:42
+Camera Profile Digest           : A0DE3B4A7F143D358CC67084AD58AA15
+Vignette Amount                 : 0
+Camera Profile                  : Adobe Standard
+Lens Profile Name               : Adobe (Sony FE 12-24mm F4 G)
+Version                         : 13.1
+Red Saturation                  : -5
+Shadows 2012                    : +59
+Saturation Adjustment Aqua      : 0
+Color Grade Highlight Lum       : 0
+Color Noise Reduction Detail    : 50
+Upright Transform 1             : 1.152270928,0.506606211,-0.270508381,-1.043122807,1.653061042,0.402917153,-0.276922813,0.388368758,1.276922813
+Luminance Adjustment Blue       : 0
+Lens Profile Enable             : 1
+Highlights 2012                 : -40
+Upright Transform 4             : 0.922755252,0.256924325,-0.089839788,-0.578079731,0.922755252,0.327662239,0.000000000,0.000000000,1.000000000
+Hue Adjustment Orange           : 0
+Vibrance                        : +38
+Lens Profile Filename           : SONY (Sony FE 12-24mm F4 G) - RAW.lcp
+Split Toning Highlight Saturation: 0
+Has Crop                        : False
+Perspective Rotate              : 0.0
+Sharpen Detail                  : 25
+Upright Focal Length 35mm       : 11.988871103
+Perspective Upright             : Off
+Color Grade Midtone Lum         : 0
+Sharpen Edge Masking            : 0
+Defringe Purple Hue Lo          : 30
+Defringe Green Hue Lo           : 40
+Perspective Scale               : 100
+Split Toning Balance            : 0
+Color Noise Reduction Smoothness: 50
+Parametric Highlights           : 0
+Hue Adjustment Aqua             : 0
+Luminance Adjustment Green      : 0
+Parametric Shadows              : 0
+Color Noise Reduction           : 25
+Lens Profile Setup              : LensDefaults
+Green Hue                       : +30
+Perspective X                   : 0.00
+Perspective Horizontal          : 0
+Lens Profile Distortion Scale   : 100
+Saturation Adjustment Green     : 0
+Perspective Y                   : 0.00
+Luminance Smoothing             : 0
+Color Grade Midtone Hue         : 0
+Lens Profile Is Embedded        : False
+Upright Focal Mode              : 0
+Tone Curve Name 2012            : Custom
+Parametric Lights               : 0
+Parametric Shadow Split         : 25
+Defringe Green Hue Hi           : 60
+Grain Amount                    : 0
+Saturation Adjustment Magenta   : 0
+Contrast 2012                   : 0
+Upright Center Norm Y           : 0.510817829
+Perspective Vertical            : 0
+Dehaze                          : 0
+Saturation Adjustment Orange    : 0
+Split Toning Shadow Hue         : 0
+Override Look Vignette          : False
+Hue Adjustment Red              : 0
+Split Toning Shadow Saturation  : 0
+Saturation Adjustment Blue      : 0
+Upright Transform 2             : 0.922755252,0.256924325,-0.089839788,-0.578079731,0.922755252,0.327662239,0.000000000,0.000000000,1.000000000
+Color Grade Global Lum          : 0
+Color Grade Midtone Sat         : 0
+Blue Saturation                 : -5
+Luminance Adjustment Aqua       : 0
+Parametric Midtone Split        : 50
+Upright Center Norm X           : 0.507433841
+Exposure 2012                   : +0.70
+Luminance Adjustment Yellow     : 0
+Lens Profile Digest             : CF7719A2386C23B3E5B6BAB69E48D9C8
+Hue Adjustment Blue             : 0
+Color Temperature               : 7100
+Upright Transform 3             : 0.922755252,0.256924325,-0.089839788,-0.578079731,0.922755252,0.327662239,0.000000000,0.000000000,1.000000000
+Shadow Tint                     : 0
+Parametric Highlight Split      : 75
+Hue Adjustment Purple           : 0
+Luminance Adjustment Purple     : 0
+Upright Dependent Digest        : 3422B8CE709EF369C75F3B84DC4203D9
+Tint                            : +13
+Defringe Purple Hue Hi          : 70
+Upright Center Mode             : 0
+Red Hue                         : +20
+Color Grade Shadow Lum          : 0
+Upright Transform 0             : 1.000000000,0.000000000,0.000000000,0.000000000,1.000000000,0.000000000,0.000000000,0.000000000,1.000000000
+Texture                         : 0
+Color Grade Global Hue          : 0
+Parametric Darks                : 0
+Hue Adjustment Magenta          : 0
+Sharpen Radius                  : +1.0
+Process Version                 : 11.0
+Whites 2012                     : +18
+Luminance Adjustment Orange     : 0
+Perspective Aspect              : 0
+Blacks 2012                     : +49
+Luminance Adjustment Red        : 0
+Split Toning Highlight Hue      : 0
+Blue Hue                        : -6
+Has Settings                    : True
+Defringe Purple Amount          : 0
+Auto Lateral CA                 : 1
+Luminance Adjustment Magenta    : 0
+Saturation Adjustment Red       : 0
+Lens Manual Distortion Amount   : 0
+Saturation Adjustment Yellow    : 0
+Hue Adjustment Green            : 0
+Saturation Adjustment Purple    : 0
+Hue Adjustment Yellow           : 0
+Green Saturation                : -4
+Already Applied                 : True
+Lens Profile Vignetting Scale   : 100
+Upright Version                 : 151388160
+Color Grade Blending            : 50
+Defringe Green Amount           : 0
+Upright Transform Count         : 6
+Post Crop Vignette Amount       : 0
+Clarity 2012                    : 0
+Upright Transform 5             : 1.000000000,0.000000000,0.000000000,0.000000000,1.000000000,0.000000000,0.000000000,0.000000000,1.000000000
+Upright Preview                 : False
+Color Grade Global Sat          : 0
+Original Document ID            : 884A13916C8D1EE5358C1A7CAAA96F8A
+Instance ID                     : xmp.iid:e0e3bea1-9cd1-cc45-925b-1968ec7e0da2
+Document ID                     : adobe:docid:photoshop:a5d78ce6-27d8-8340-817e-7899f0e10c4d
+Format                          : image/jpeg
+Lens Distort Info               : 33369/32768 -68785631/1073741824 5698201/1073741824 29526188/1073741824
+Lens                            : FE 12-24mm F4 G
+Lateral Chromatic Aberration Correction Already Applied: True
+Distortion Correction Already Applied: True
+Vignette Correction Already Applied: True
+Metadata Date                   : 2023:04:28 13:14:44+03:00
+Rating                          : 0
+Creator Tool                    : Adobe Photoshop CC 2019 (Macintosh)
+Date Created                    : 2020:03:15 00:11:50.045+07:00
+Legacy IPTC Digest              : 24B197FC460AAF831E4FA045E5D49B5B
+Color Mode                      : RGB
+ICC Profile Name                : Adobe RGB (1998)
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 46, 24, 115, 123, 179, 200, 255, 255
+Look Amount                     : 1.000000
+Look Supports Output Referred   : false
+Look Supports Amount            : false
+Look UUID                       : B952C231111CD8E0ECCF14B86BAA7077
+Look Supports Monochrome        : false
+Look Name                       : Adobe Color
+Look Copyright                  : © 2018 Adobe Systems, Inc.
+Look Group                      : Profiles
+Look Parameters Version         : 13.1
+Look Parameters Process Version : 11.0
+Look Parameters Camera Profile  : Adobe Standard
+Look Parameters Look Table      : E1095149FDB39D7A057BAB208837E2E1
+Look Parameters Convert To Grayscale: False
+Look Parameters Tone Curve PV2012 Blue: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Red: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Green: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012: 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 45, 25, 114, 122, 178, 200, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 44, 25, 116, 124, 179, 200, 255, 255
+History Software Agent          : Adobe Photoshop Camera Raw 13.1 (Macintosh), Adobe Photoshop Camera Raw 13.1 (Macintosh), Adobe Photoshop Camera Raw 13.1 (Macintosh), Adobe Photoshop CC 2019 (Macintosh), Adobe Photoshop CC 2019 (Macintosh), Adobe Photoshop 23.1 (Windows)
+History Changed                 : /metadata, /metadata, /, /, /, /
+History When                    : 2023:01:16 14:03:25+03:00, 2023:01:16 14:03:37+03:00, 2023:01:16 14:03:53+03:00, 2023:01:16 14:10:40+03:00, 2023:01:16 14:10:40+03:00, 2023:04:28 13:14:44+03:00
+History Instance ID             : xmp.iid:49ee955f-aa60-41f2-8e6a-aef41376ddf7, xmp.iid:500a4bae-5c8d-4a93-9344-26ee3b83d196, xmp.iid:efeb8532-f243-4d0e-8189-39c7960a691f, xmp.iid:3123577e-8050-48d1-8e7c-390e56e92e7a, xmp.iid:d8e0636c-cec5-4de9-8ab8-f19a7ceb84a9, xmp.iid:e0e3bea1-9cd1-cc45-925b-1968ec7e0da2
+History Action                  : saved, saved, derived, saved, saved, converted, derived, saved, saved
+History Parameters              : converted from image/x-sony-arw to image/tiff, from image/tiff to image/jpeg, converted from image/tiff to image/jpeg
+Derived From Original Document ID: 884A13916C8D1EE5358C1A7CAAA96F8A
+Derived From Instance ID        : xmp.iid:3123577e-8050-48d1-8e7c-390e56e92e7a
+Derived From Document ID        : xmp.did:efeb8532-f243-4d0e-8189-39c7960a691f
+Profile CMM Type                : Adobe Systems Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2000:08:11 19:51:59
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : none
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Adobe Systems Inc.
+Profile ID                      : 0
+Profile Copyright               : Copyright 2000 Adobe Systems Incorporated
+Profile Description             : Adobe RGB (1998)
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Tone Reproduction Curve     : (Binary data 14 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 14 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+Red Matrix Column               : 0.60974 0.31111 0.01947
+Green Matrix Column             : 0.20528 0.62567 0.06087
+Blue Matrix Column              : 0.14919 0.06322 0.74457
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 4000
+Image Height                    : 6000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 8.0
+Image Size                      : 4000x6000
+Megapixels                      : 24.0
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/320
+Create Date                     : 2020:03:15 00:11:50.045+07:00
+Date/Time Original              : 2020:03:15 00:11:50.045+07:00
+Modify Date                     : 2023:04:28 13:14:44.045+07:00
+Thumbnail Image                 : (Binary data 8081 bytes, use -b option to extract)
+Date/Time Created               : 2020:03:15 00:11:50+07:00
+Circle Of Confusion             : 0.030 mm
+Field Of View                   : 112.6 deg
+Focal Length                    : 12.0 mm (35 mm equivalent: 12.0 mm)
+Hyperfocal Distance             : 0.60 m
+Light Value                     : 11.3
+Lens ID                         : FE 12-24mm F4 G

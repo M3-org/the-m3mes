@@ -1,0 +1,78 @@
+ExifTool Version Number         : 12.57
+File Name                       : 119.jpg
+Directory                       : .
+File Size                       : 11 MB
+File Modification Date/Time     : 2023:08:06 03:06:43-04:00
+File Access Date/Time           : 2023:08:06 03:26:59-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 21.1 (Windows)
+Modify Date                     : 2023:07:09 15:06:16
+Color Space                     : Uncalibrated
+Exif Image Width                : 3500
+Exif Image Height               : 2084
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 318
+Thumbnail Length                : 5553
+Current IPTC Digest             : e8f15cf32fc118a1a27b67adc564d5ba
+Application Record Version      : 0
+IPTC Digest                     : e8f15cf32fc118a1a27b67adc564d5ba
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 57
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : Memecard Equilibrium
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 5553 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2020
+Photoshop Quality               : 12
+Photoshop Format                : Optimized
+XMP Toolkit                     : Adobe XMP Core 6.0-c002 79.164352, 2020/01/30-15:50:38
+Creator Tool                    : Adobe Photoshop 21.1 (Windows)
+Create Date                     : 2023:02:26 16:57:59+03:00
+Metadata Date                   : 2023:07:09 15:06:16+03:00
+Format                          : image/jpeg
+Color Mode                      : RGB
+Instance ID                     : xmp.iid:bb6e1bdc-f7a1-2143-9acf-d3b28f7cf847
+Document ID                     : adobe:docid:photoshop:ea4c65c5-cdab-1740-abc1-95268ad82c06
+Original Document ID            : xmp.did:d188d4e5-83db-804b-bc3a-aba9250f2a9c
+Text Layer Name                 : SEIZE THE   RIGHTS  OF DIGITALIZATION, MAINTAIN EQUILIBRIUM
+Text Layer Text                 : SEIZE THE   RIGHTS  OF DIGITALIZATION, MAINTAIN EQUILIBRIUM
+Document Ancestors              : 05B6A9830D529096980F6776B6624228, 154CB46186A652EAB9EB5D2F83BB9E14, 490DD1C178156FD9A0A6ED4BC5CA5F73, 950EA2D822816E0F841325EB52E79C8C, E555A3EE6CBA2327D042916B837AC607, ED4066A7A9900F8D2D0D7E48CD5806D9
+History Action                  : created, saved, saved, converted, derived, saved
+History Instance ID             : xmp.iid:d188d4e5-83db-804b-bc3a-aba9250f2a9c, xmp.iid:391fdb77-e745-414e-b7bd-64e5403c16ee, xmp.iid:6d27a6cb-a343-d646-b0b1-8ea9b9807e85, xmp.iid:bb6e1bdc-f7a1-2143-9acf-d3b28f7cf847
+History When                    : 2023:02:26 16:57:59+03:00, 2023:07:08 15:20:39+03:00, 2023:07:09 15:06:16+03:00, 2023:07:09 15:06:16+03:00
+History Software Agent          : Adobe Photoshop 21.1 (Windows), Adobe Photoshop 21.1 (Windows), Adobe Photoshop 21.1 (Windows), Adobe Photoshop 21.1 (Windows)
+History Changed                 : /, /, /
+History Parameters              : from application/vnd.adobe.photoshop to image/jpeg, converted from application/vnd.adobe.photoshop to image/jpeg
+Derived From Instance ID        : xmp.iid:6d27a6cb-a343-d646-b0b1-8ea9b9807e85
+Derived From Document ID        : adobe:docid:photoshop:347aa0ea-38d5-774b-be6a-d8bf307be825
+Derived From Original Document ID: xmp.did:d188d4e5-83db-804b-bc3a-aba9250f2a9c
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 3500
+Image Height                    : 2084
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 3500x2084
+Megapixels                      : 7.3
+Thumbnail Image                 : (Binary data 5553 bytes, use -b option to extract)

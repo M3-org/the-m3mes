@@ -1,0 +1,353 @@
+ExifTool Version Number         : 12.57
+File Name                       : 79.jpg
+Directory                       : .
+File Size                       : 7.1 MB
+File Modification Date/Time     : 2023:08:06 03:05:42-04:00
+File Access Date/Time           : 2023:08:06 03:26:47-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : SONY
+Camera Model Name               : ILCE-7M2
+Orientation                     : Horizontal (normal)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 23.1 (Macintosh)
+Modify Date                     : 2023:03:06 05:12:48
+Exposure Time                   : 1/160
+F Number                        : 6.3
+Exposure Program                : Manual
+ISO                             : 400
+Sensitivity Type                : Recommended Exposure Index
+Recommended Exposure Index      : 400
+Exif Version                    : 0230
+Date/Time Original              : 2023:01:27 20:16:14
+Create Date                     : 2023:01:27 20:16:14
+Shutter Speed Value             : 1/160
+Aperture Value                  : 6.3
+Brightness Value                : 0.57578125
+Exposure Compensation           : 0
+Max Aperture Value              : 3.5
+Metering Mode                   : Spot
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 35.0 mm
+Color Space                     : sRGB
+Exif Image Width                : 3000
+Exif Image Height               : 3000
+Focal Plane X Resolution        : 1675.257385
+Focal Plane Y Resolution        : 1675.257385
+Focal Plane Resolution Unit     : cm
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Manual
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 35 mm
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Lens Info                       : 35-70mm f/3.5-4.5
+Lens Model                      : 35-70mm F3.5-4.5
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 942
+Thumbnail Length                : 6315
+Current IPTC Digest             : 42560f03a7dea41a99cf0ca81f2c2113
+Application Record Version      : 0
+Time Created                    : 20:16:14
+IPTC Digest                     : 42560f03a7dea41a99cf0ca81f2c2113
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : redpilledsklabelfinal
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 6315 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2022
+Photoshop Quality               : 12
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 7.1-c000 79.eda2b3fac, 2021/11/17-17:23:19
+Creator Tool                    : ILCE-7M2 v2.00
+Rating                          : 5
+Metadata Date                   : 2023:03:06 05:12:48-05:00
+Lens                            : 35-70mm F3.5-4.5
+Distortion Correction Already Applied: True
+Date Created                    : 2023:01:27 20:16:14
+Color Mode                      : RGB
+ICC Profile Name                : sRGB IEC61966-2.1
+Document ID                     : adobe:docid:photoshop:6a5e3596-c53e-a74a-816b-b5866ac008ad
+Original Document ID            : 028A33BD012858FF45DB3EE2CB1AFC90
+Instance ID                     : xmp.iid:ec690edc-4325-4464-90ef-2c40bc9ecc61
+Format                          : image/jpeg
+Version                         : 14.2
+Compatible Version              : 234881024
+Process Version                 : 11.0
+Color Temperature               : 6550
+Tint                            : +3
+Exposure 2012                   : +0.70
+Contrast 2012                   : 0
+Highlights 2012                 : +5
+Shadows 2012                    : 0
+Whites 2012                     : +5
+Blacks 2012                     : -20
+Texture                         : 0
+Clarity 2012                    : -10
+Dehaze                          : 0
+Vibrance                        : 0
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : +10
+Parametric Highlights           : +2
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Luminance Smoothing             : 0
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Hue Adjustment Red              : -15
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : -35
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : -2
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : +28
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : -4
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Grade Midtone Lum         : 0
+Color Grade Highlight Lum       : 0
+Color Grade Blending            : 50
+Color Grade Global Hue          : 0
+Color Grade Global Sat          : 0
+Color Grade Global Lum          : 0
+Auto Lateral CA                 : 0
+Lens Profile Enable             : 1
+Lens Manual Distortion Amount   : 0
+Vignette Amount                 : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Aspect              : 0
+Perspective Scale               : 100
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Grain Amount                    : 0
+Post Crop Vignette Amount       : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Override Look Vignette          : False
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 24DB427054E183A10DED3CF64B3851FA
+Lens Profile Setup              : Custom
+Lens Profile Name               : Adobe (Leica VARIO-ELMAR-R 35-70 mm f/4, 35 mm)
+Lens Profile Filename           : Leica Camera AG (Leica VARIO-ELMAR-R 35-70 mm f4, 35 mm) - RAW.lcp
+Lens Profile Digest             : 50BEB7B43CDE3B0187B021F0C5C3371E
+Lens Profile Is Embedded        : False
+Lens Profile Distortion Scale   : 100
+Lens Profile Vignetting Scale   : 100
+Has Settings                    : True
+Crop Top                        : 0.053956
+Crop Left                       : 0.109155
+Crop Bottom                     : 1
+Crop Right                      : 0.739851
+Crop Angle                      : 0
+Crop Constrain To Warp          : 0
+Crop Width                      : 1
+Crop Height                     : 1
+Crop Unit                       : Unknown (3)
+Has Crop                        : True
+Already Applied                 : True
+Document Ancestors              : adobe:docid:photoshop:b0ff732a-d03a-254d-b62d-23d0755339c8, xmp.did:82d8a46f-02a7-4b88-88ac-59d4ace3d4e7, xmp.did:8e0bfcc8-5bba-4fbd-99f1-9c1cfc8afdc7
+History Action                  : saved, saved, derived, saved, derived, saved, saved, converted, derived, saved
+History Instance ID             : xmp.iid:2ab0fc57-a6d3-4620-9117-2c33a9cc3416, xmp.iid:0b090335-7599-4118-85d4-d4a4f98465d3, xmp.iid:f5b9df0b-8a37-4367-ac4a-aacdbbb4fc93, xmp.iid:c0a584b2-dbe6-4a10-89af-c2e256941dad, xmp.iid:bb970384-0689-40e7-bc0e-489bb6133747, xmp.iid:ec690edc-4325-4464-90ef-2c40bc9ecc61
+History When                    : 2023:01:27 19:28:41-05:00, 2023:01:27 19:33:15-05:00, 2023:01:27 20:06:26-05:00, 2023:01:27 21:22:39-05:00, 2023:03:06 05:12:48-05:00, 2023:03:06 05:12:48-05:00
+History Software Agent          : Adobe Photoshop Camera Raw 14.2, Adobe Photoshop Camera Raw 14.2 (Macintosh), Adobe Photoshop Camera Raw 14.2 (Macintosh), Adobe Photoshop 23.1 (Macintosh), Adobe Photoshop 23.1 (Macintosh), Adobe Photoshop 23.1 (Macintosh)
+History Changed                 : /metadata, /metadata, /, /, /, /
+History Parameters              : converted from image/x-sony-arw to image/tiff, converted from image/tiff to application/vnd.adobe.photoshop, from application/vnd.adobe.photoshop to image/jpeg, converted from application/vnd.adobe.photoshop to image/jpeg
+Derived From Instance ID        : xmp.iid:bb970384-0689-40e7-bc0e-489bb6133747
+Derived From Document ID        : adobe:docid:photoshop:4fc3540c-a21f-3743-bf53-a569c9007086
+Derived From Original Document ID: 028A33BD012858FF45DB3EE2CB1AFC90
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Mask Group Based Corr Correction Name: Mask 1, Mask 2, Mask 3, Mask 4
+Mask Group Based Corr Correction Sync ID: 83FFFBDFFBCD4D15B7246609F109B569, 2892956FA1C7484DBE6EF804F0903FD2, A32F3DDC688244EB8D8E70BD237AE366, 2883820565D7401FB84269C8A2DBDB9F
+Mask Group Based Corr Mask Zero X: 0.592722
+Mask Group Based Corr Mask Zero Y: 0.493142
+Mask Group Based Corr Mask Full X: 0.593217
+Mask Group Based Corr Mask Full Y: 1.001037
+Mask Group Based Corr Mask Masks Dabs: d 0.743094 0.165851, d 0.741895 0.211067, d 0.741857 0.256319, d 0.741856 0.301570, d 0.739672 0.346703, d 0.738063 0.391891, d 0.737699 0.437139, d 0.737848 0.482390, d 0.741100 0.527379, d 0.742057 0.572608, d 0.742089 0.617859, d 0.742091 0.663111, d 0.739360 0.685192, d 0.739360 0.730444, d 0.739360 0.775696, d 0.742621 0.820682, d 0.744937 0.865801, d 0.746768 0.910969, d 0.746546 0.865718, d 0.745199 0.820512, d 0.740175 0.775892, d 0.734101 0.731567, d 0.731197 0.686525, d 0.727849 0.641553, d 0.723904 0.596690, d 0.722192 0.551511, d 0.722165 0.506259, d 0.722165 0.461008, d 0.722165 0.415756, d 0.722165 0.370504, d 0.723758 0.325315, d 0.725158 0.280112, d 0.727410 0.234987, d 0.187637 0.060312, d 0.157471 0.059845, d 0.127531 0.065392, d 0.106973 0.098510, d 0.096647 0.141029, d 0.089161 0.184865, d 0.088556 0.230108, d 0.085311 0.185119, d 0.091884 0.140954, d 0.112534 0.107965, d 0.137666 0.082933, d 0.164403 0.061975, d 0.192756 0.046516
+Mask Group Based Corr What      : Correction
+Mask Group Based Corr Amount    : 1
+Mask Group Based Corr Active    : true
+Mask Group Based Corr Exposure  : 0
+Mask Group Based Corr Hue       : 0
+Mask Group Based Corr Saturation: 0
+Mask Group Based Corr Contrast  : 0
+Mask Group Based Corr Clarity   : 0
+Mask Group Based Corr Sharpness : 0
+Mask Group Based Corr Brightness: 0
+Mask Group Based Corr Toning Hue: 0
+Mask Group Based Corr Toning Saturation: 0
+Mask Group Based Corr Exposure 2012: 0.125
+Mask Group Based Corr Contrast 2012: 0
+Mask Group Based Corr Highlights 2012: 0
+Mask Group Based Corr Shadows 2012: 0.04
+Mask Group Based Corr Whites 2012: 0
+Mask Group Based Corr Blacks 2012: 0
+Mask Group Based Corr Clarity 2012: 0
+Mask Group Based Corr Dehaze    : 0
+Mask Group Based Corr Luminance Noise: 0
+Mask Group Based Corr Moire     : 0
+Mask Group Based Corr Defringe  : 0
+Mask Group Based Corr Temperature: 0
+Mask Group Based Corr Tint      : 0
+Mask Group Based Corr Texture   : 0
+Mask Group Based Corr Mask What : Mask/Aggregate
+Mask Group Based Corr Mask Mask Active: true
+Mask Group Based Corr Mask Mask Name: Brush 1
+Mask Group Based Corr Mask Mask Blend Mode: 0
+Mask Group Based Corr Mask Mask Inverted: false
+Mask Group Based Corr Mask Mask Sync ID: 17CB5BFE443E4519AB5906CA3DD29CA9
+Mask Group Based Corr Mask Value: 1
+Mask Group Based Corr Mask Masks What: Mask/Paint
+Mask Group Based Corr Mask Masks Mask Active: true
+Mask Group Based Corr Mask Masks Mask Blend Mode: 0
+Mask Group Based Corr Mask Masks Mask Inverted: false
+Mask Group Based Corr Mask Masks Mask Sync ID: B041652F77C24C6E8459FC4740A8D1B4
+Mask Group Based Corr Mask Masks Value: 1
+Mask Group Based Corr Mask Masks Radius: 0.150839
+Mask Group Based Corr Mask Masks Flow: 0.5
+Mask Group Based Corr Mask Masks Center Weight: 0
+Look Name                       : Adobe Color
+Look Amount                     : 1
+Look UUID                       : B952C231111CD8E0ECCF14B86BAA7077
+Look Supports Amount            : false
+Look Supports Monochrome        : false
+Look Supports Output Referred   : false
+Look Copyright                  : © 2018 Adobe Systems, Inc.
+Look Group                      : Profiles
+Look Parameters Version         : 14.2
+Look Parameters Process Version : 11.0
+Look Parameters Convert To Grayscale: False
+Look Parameters Camera Profile  : Adobe Standard
+Look Parameters Look Table      : E1095149FDB39D7A057BAB208837E2E1
+Look Parameters Tone Curve PV2012: 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+Look Parameters Tone Curve PV2012 Red: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Green: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Blue: 0, 0, 255, 255
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 3000
+Image Height                    : 3000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 6.3
+Image Size                      : 3000x3000
+Megapixels                      : 9.0
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/160
+Thumbnail Image                 : (Binary data 6315 bytes, use -b option to extract)
+Date/Time Created               : 2023:01:27 20:16:14
+Circle Of Confusion             : 0.030 mm
+Field Of View                   : 54.4 deg
+Focal Length                    : 35.0 mm (35 mm equivalent: 35.0 mm)
+Hyperfocal Distance             : 6.47 m
+Light Value                     : 10.6
+Lens ID                         : Minolta AF 35-70mm F3.5-4.5 [II]

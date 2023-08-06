@@ -1,0 +1,130 @@
+ExifTool Version Number         : 12.57
+File Name                       : 37.jpg
+Directory                       : .
+File Size                       : 18 MB
+File Modification Date/Time     : 2023:08:06 03:04:55-04:00
+File Access Date/Time           : 2023:08:06 03:17:48-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+Current IPTC Digest             : 1f9214ff4ec6fabe75c45b3c446e0b3e
+Coded Character Set             : UTF8
+Application Record Version      : 0
+Object Name                     : arsonic-freedom-to-transact
+IPTC Digest                     : 1f9214ff4ec6fabe75c45b3c446e0b3e
+X Resolution                    : 72
+Displayed Units X               : inches
+Y Resolution                    : 72
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : arsonic-freedomtotransact-2
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 7069 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2021
+Photoshop Quality               : 12
+Photoshop Format                : Optimized
+XMP Toolkit                     : Adobe XMP Core 6.0-c006 79.164648, 2021/01/12-15:52:29
+Format                          : image/jpeg
+Metadata Date                   : 2022:11:18 09:04:24-05:00
+Modify Date                     : 2022:11:18 09:04:24-05:00
+Create Date                     : 2022:11:18 08:58:52-05:00
+Creator Tool                    : Adobe Illustrator 25.2 (Windows)
+Instance ID                     : xmp.iid:b60afaa3-9af0-294f-9d93-3dd6f7b36de5
+Document ID                     : adobe:docid:photoshop:d591ae35-ed0e-5d48-95e4-bc84e4394c17
+Original Document ID            : uuid:5D20892493BFDB11914A8590D31508C8
+Rendition Class                 : default
+Startup Profile                 : Print
+Creator Sub Tool                : Adobe Illustrator
+Has Visible Overprint           : False
+Has Visible Transparency        : True
+N Pages                         : 1
+Producer                        : Adobe PDF library 15.00
+Color Mode                      : RGB
+ICC Profile Name                : sRGB IEC61966-2.1
+Title                           : arsonic-freedom-to-transact
+Derived From Instance ID        : xmp.iid:00570ecc-80ed-5f4a-a392-f872be249519
+Derived From Document ID        : xmp.did:00570ecc-80ed-5f4a-a392-f872be249519
+Derived From Original Document ID: uuid:5D20892493BFDB11914A8590D31508C8
+Derived From Rendition Class    : default
+History Action                  : saved, saved, converted, saved, converted, derived, saved
+History Instance ID             : xmp.iid:7bcb694e-5cee-bd43-b202-2bb2d0a0d8f9, xmp.iid:deb42cb3-7568-c54e-8869-780cb9ab5f6c, xmp.iid:00570ecc-80ed-5f4a-a392-f872be249519, xmp.iid:b60afaa3-9af0-294f-9d93-3dd6f7b36de5
+History When                    : 2022:11:16 12:28:59-05:00, 2022:11:18 08:58:52-05:00, 2022:11:18 09:04:24-05:00, 2022:11:18 09:04:24-05:00
+History Software Agent          : Adobe Illustrator 25.2 (Windows), Adobe Illustrator 25.2 (Windows), Adobe Photoshop 22.2 (Windows), Adobe Photoshop 22.2 (Windows)
+History Changed                 : /, /, /, /
+History Parameters              : from application/postscript to image/epsf, from application/postscript to image/jpeg, converted from image/epsf to image/jpeg
+Max Page Size W                 : 650.000000
+Max Page Size H                 : 830.000000
+Max Page Size Unit              : Points
+Plate Names                     : Cyan, Magenta, Yellow, Black
+Swatch Group Name               : Default Swatch Group, Grays, Brights
+Swatch Group Type               : 0, 0, 0
+Swatch Colorant Swatch Name     : White, Black, CMYK Red, CMYK Yellow, CMYK Green, CMYK Cyan, CMYK Blue, CMYK Magenta, C=15 M=100 Y=90 K=10, C=0 M=90 Y=85 K=0, C=0 M=80 Y=95 K=0, C=0 M=50 Y=100 K=0, C=0 M=35 Y=85 K=0, C=5 M=0 Y=90 K=0, C=20 M=0 Y=100 K=0, C=50 M=0 Y=100 K=0, C=75 M=0 Y=100 K=0, C=85 M=10 Y=100 K=10, C=90 M=30 Y=95 K=30, C=75 M=0 Y=75 K=0, C=80 M=10 Y=45 K=0, C=70 M=15 Y=0 K=0, C=85 M=50 Y=0 K=0, C=100 M=95 Y=5 K=0, C=100 M=100 Y=25 K=25, C=75 M=100 Y=0 K=0, C=50 M=100 Y=0 K=0, C=35 M=100 Y=35 K=10, C=10 M=100 Y=50 K=0, C=0 M=95 Y=20 K=0, C=25 M=25 Y=40 K=0, C=40 M=45 Y=50 K=5, C=50 M=50 Y=60 K=25, C=55 M=60 Y=65 K=40, C=25 M=40 Y=65 K=0, C=30 M=50 Y=75 K=10, C=35 M=60 Y=80 K=25, C=40 M=65 Y=90 K=35, C=40 M=70 Y=100 K=50, C=50 M=70 Y=80 K=70, C=0 M=0 Y=0 K=100, C=0 M=0 Y=0 K=90, C=0 M=0 Y=0 K=80, C=0 M=0 Y=0 K=70, C=0 M=0 Y=0 K=60, C=0 M=0 Y=0 K=50, C=0 M=0 Y=0 K=40, C=0 M=0 Y=0 K=30, C=0 M=0 Y=0 K=20, C=0 M=0 Y=0 K=10, C=0 M=0 Y=0 K=5, C=0 M=100 Y=100 K=0, C=0 M=75 Y=100 K=0, C=0 M=10 Y=95 K=0, C=85 M=10 Y=100 K=0, C=100 M=90 Y=0 K=0, C=60 M=90 Y=0 K=0
+Swatch Colorant Mode            : CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK, CMYK
+Swatch Colorant Type            : PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS, PROCESS
+Swatch Colorant Cyan            : 0.000000, 0.000000, 0.000000, 0.000000, 100.000000, 100.000000, 100.000000, 0.000000, 15.000000, 0.000000, 0.000000, 0.000000, 0.000000, 5.000000, 20.000000, 50.000000, 75.000000, 85.000000, 90.000000, 75.000000, 80.000000, 70.000000, 85.000000, 100.000000, 100.000000, 75.000000, 50.000000, 35.000000, 10.000000, 0.000000, 25.000000, 40.000000, 50.000000, 55.000000, 25.000000, 30.000000, 35.000000, 40.000000, 40.000000, 50.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 85.000000, 100.000000, 60.000000
+Swatch Colorant Magenta         : 0.000000, 0.000000, 100.000000, 0.000000, 0.000000, 0.000000, 100.000000, 100.000000, 100.000000, 90.000000, 80.000000, 50.000000, 35.000000, 0.000000, 0.000000, 0.000000, 0.000000, 10.000000, 30.000000, 0.000000, 10.000000, 15.000000, 50.000000, 95.000000, 100.000000, 100.000000, 100.000000, 100.000000, 100.000000, 95.000000, 25.000000, 45.000000, 50.000000, 60.000000, 40.000000, 50.000000, 60.000000, 65.000000, 70.000000, 70.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 100.000000, 75.000000, 10.000000, 10.000000, 90.000000, 90.000000
+Swatch Colorant Yellow          : 0.000000, 0.000000, 100.000000, 100.000000, 100.000000, 0.000000, 0.000000, 0.000000, 90.000000, 85.000000, 95.000000, 100.000000, 85.000000, 90.000000, 100.000000, 100.000000, 100.000000, 100.000000, 95.000000, 75.000000, 45.000000, 0.000000, 0.000000, 5.000000, 25.000000, 0.000000, 0.000000, 35.000000, 50.000000, 20.000000, 40.000000, 50.000000, 60.000000, 65.000000, 65.000000, 75.000000, 80.000000, 90.000000, 100.000000, 80.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 100.000000, 100.000000, 95.000000, 100.000000, 0.000000, 0.003100
+Swatch Colorant Black           : 0.000000, 100.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 10.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 10.000000, 30.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 25.000000, 0.000000, 0.000000, 10.000000, 0.000000, 0.000000, 0.000000, 5.000000, 25.000000, 40.000000, 0.000000, 10.000000, 25.000000, 35.000000, 50.000000, 70.000000, 100.000000, 89.999400, 79.998800, 69.999700, 59.999100, 50.000000, 39.999400, 29.998800, 19.999700, 9.999100, 4.998800, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.003100
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Media-Relative Colorimetric
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 4480
+Image Height                    : 5720
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 4480x5720
+Megapixels                      : 25.6

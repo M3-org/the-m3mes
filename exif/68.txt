@@ -1,0 +1,95 @@
+ExifTool Version Number         : 12.57
+File Name                       : 68.jpg
+Directory                       : .
+File Size                       : 18 MB
+File Modification Date/Time     : 2023:08:06 03:05:26-04:00
+File Access Date/Time           : 2023:08:06 03:18:23-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.02
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Modify Date                     : 2023:02:15 21:19:40
+XMP Toolkit                     : Adobe XMP Core 7.1-c000 79.4d2f597, 2021/09/01-20:51:22
+Instance ID                     : xmp.iid:2155e5f7-c867-463a-a41a-1f0176a3a853
+Document ID                     : c1fb2628-a6a1-ba53-f080-e96300000087
+Original Document ID            : xmp.did:158d62fc-4afc-4a23-878f-733457455035
+Metadata Date                   : 2023:02:15 21:19:40-08:00
+Create Date                     : 2023:02:15 21:19:09-08:00
+Video Frame Rate                : 30.000000
+Video Field Order               : Progressive
+Video Pixel Aspect Ratio        : 1
+Start Time Scale                : 30
+Start Time Sample Size          : 1
+Format                          : JPEG
+History Action                  : saved, saved, saved
+History Instance ID             : aae9d782-1e36-4cde-f2d7-83a1000000b4, xmp.iid:37a6ec59-9644-4c30-8a24-48f94b7accab, xmp.iid:2155e5f7-c867-463a-a41a-1f0176a3a853
+History When                    : 2023:02:15 21:19:40-08:00, 2023:02:15 21:19:40-08:00, 2023:02:15 21:19:40-08:00
+History Software Agent          : Adobe Premiere Pro 2022.0 (Macintosh), Adobe Premiere Pro 2022.0 (Macintosh), Adobe Premiere Pro 2022.0 (Macintosh)
+History Changed                 : /, /, /metadata
+Video Frame Size W              : 6055
+Video Frame Size H              : 8108
+Video Frame Size Unit           : pixel
+Duration Value                  : 262
+Duration Scale                  : 0.0333333333333333
+Start Timecode Time Format      : 30 fps
+Start Timecode Time Value       : 00:00:03:08
+Alt Timecode Time Value         : 00:00:03:08
+Alt Timecode Time Format        : 30 fps
+IPTC Digest                     : d41d8cd98f00b204e9800998ecf8427e
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 6055
+Image Height                    : 8108
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 6055x8108
+Megapixels                      : 49.1

@@ -1,0 +1,78 @@
+ExifTool Version Number         : 12.57
+File Name                       : 32.png
+Directory                       : .
+File Size                       : 32 MB
+File Modification Date/Time     : 2023:08:06 03:04:51-04:00
+File Access Date/Time           : 2023:08:06 03:31:05-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 4134
+Image Height                    : 5847
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : Adobe RGB (1998)
+Profile CMM Type                : Adobe Systems Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1999:06:03 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : none
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Adobe Systems Inc.
+Profile ID                      : 0
+Profile Copyright               : Copyright 1999 Adobe Systems Incorporated
+Profile Description             : Adobe RGB (1998)
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Tone Reproduction Curve     : (Binary data 14 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 14 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+Red Matrix Column               : 0.60974 0.31111 0.01947
+Green Matrix Column             : 0.20528 0.62567 0.06087
+Blue Matrix Column              : 0.14919 0.06322 0.74457
+Pixels Per Unit X               : 11811
+Pixels Per Unit Y               : 11811
+Pixel Units                     : meters
+XMP Toolkit                     : Adobe XMP Core 6.0-c002 79.164488, 2020/07/10-22:06:53
+Creator Tool                    : Adobe Photoshop 22.0 (Windows)
+Create Date                     : 2022:10:25 02:59:23+02:00
+Metadata Date                   : 2022:10:30 22:59:02+01:00
+Modify Date                     : 2022:10:30 22:59:02+01:00
+Format                          : image/png
+Instance ID                     : xmp.iid:ebeb8975-cc81-b94b-a7de-30fe4fb47fb6
+Document ID                     : adobe:docid:photoshop:3408878c-0b99-ac44-a122-0058b6fb9933
+Original Document ID            : xmp.did:12589154-96aa-c246-9a9a-57fbc8ac6b65
+Color Mode                      : RGB
+ICC Profile Name                : Adobe RGB (1998)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Color Space                     : Uncalibrated
+Exif Image Width                : 4134
+Exif Image Height               : 5847
+History Action                  : created, saved, saved, converted, derived, saved
+History Instance ID             : xmp.iid:12589154-96aa-c246-9a9a-57fbc8ac6b65, xmp.iid:d26ad626-4920-e744-8f15-23eb37d0a3c2, xmp.iid:982cf54d-f204-4940-84fd-ada489fa9aa5, xmp.iid:ebeb8975-cc81-b94b-a7de-30fe4fb47fb6
+History When                    : 2022:10:25 02:59:23+02:00, 2022:10:25 03:29:11+02:00, 2022:10:30 22:59:02+01:00, 2022:10:30 22:59:02+01:00
+History Software Agent          : Adobe Photoshop 22.0 (Windows), Adobe Photoshop 22.0 (Windows), Adobe Photoshop 22.0 (Windows), Adobe Photoshop 22.0 (Windows)
+History Changed                 : /, /, /
+History Parameters              : from application/vnd.adobe.photoshop to image/png, converted from application/vnd.adobe.photoshop to image/png
+Derived From Instance ID        : xmp.iid:982cf54d-f204-4940-84fd-ada489fa9aa5
+Derived From Document ID        : adobe:docid:photoshop:b6bc842e-c5c6-2b43-b28b-5042f55a69a3
+Derived From Original Document ID: xmp.did:12589154-96aa-c246-9a9a-57fbc8ac6b65
+Document Ancestors              : xmp.did:12589154-96aa-c246-9a9a-57fbc8ac6b65, xmp.did:4892f5b2-045c-2743-b15a-be5c5f53c7e7, xmp.did:B2E305900920681192B0A29181A7CF3D, xmp.did:f4d33470-9061-3444-b721-af4543422290
+Image Size                      : 4134x5847
+Megapixels                      : 24.2

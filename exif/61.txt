@@ -1,0 +1,24 @@
+ExifTool Version Number         : 12.57
+File Name                       : 61.jpg
+Directory                       : .
+File Size                       : 16 MB
+File Modification Date/Time     : 2023:08:06 03:05:19-04:00
+File Access Date/Time           : 2023:08:06 03:18:16-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 8256
+Image Height                    : 6192
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 8256x6192
+Megapixels                      : 51.1

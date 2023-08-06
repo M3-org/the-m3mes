@@ -1,0 +1,110 @@
+ExifTool Version Number         : 12.57
+File Name                       : 126.jpg
+Directory                       : .
+File Size                       : 6.1 MB
+File Modification Date/Time     : 2023:08:06 03:06:55-04:00
+File Access Date/Time           : 2023:08:06 03:27:02-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+Current IPTC Digest             : cdcffa7da8c7be09057076aeaf05c34e
+Coded Character Set             : UTF8
+Application Record Version      : 0
+IPTC Digest                     : cdcffa7da8c7be09057076aeaf05c34e
+X Resolution                    : 72
+Displayed Units X               : inches
+Y Resolution                    : 72
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : v1
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 8895 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2023
+Photoshop Quality               : 11
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 9.0-c000 79.171c27f, 2022/08/16-18:02:43
+Creator Tool                    : Adobe Photoshop 24.5 (Windows)
+Create Date                     : 2023:06:23 13:00:26+05:00
+Modify Date                     : 2023:06:26 16:37:40+05:00
+Metadata Date                   : 2023:06:26 16:37:40+05:00
+Format                          : image/jpeg
+Color Mode                      : RGB
+ICC Profile Name                : sRGB IEC61966-2.1
+Instance ID                     : xmp.iid:4b7772e1-22bc-2d4a-8954-51e564d79941
+Document ID                     : adobe:docid:photoshop:53546734-366e-7249-99bc-c6a4c3814381
+Original Document ID            : xmp.did:ea1a5bbe-3005-4047-8ab4-dc8d1c90312c
+Text Layer Name                 : GM
+Text Layer Text                 : GM
+Document Ancestors              : 98AE6F3BDB876DC14F2CFA8308DC6672, adobe:docid:photoshop:43203c01-62b6-174c-a7b6-3beba53f650d, xmp.did:ea1a5bbe-3005-4047-8ab4-dc8d1c90312c
+History Action                  : created, converted, saved, saved, converted, derived, saved
+History Instance ID             : xmp.iid:ea1a5bbe-3005-4047-8ab4-dc8d1c90312c, xmp.iid:1f538abb-5d39-5f48-a711-cef96ddfdf9f, xmp.iid:c491fe8a-79df-ca41-9959-cdadba3b2ea2, xmp.iid:4b7772e1-22bc-2d4a-8954-51e564d79941
+History When                    : 2023:06:23 13:00:26+05:00, 2023:06:23 13:05:12+05:00, 2023:06:26 16:37:40+05:00, 2023:06:26 16:37:40+05:00
+History Software Agent          : Adobe Photoshop 24.5 (Windows), Adobe Photoshop 24.5 (Windows), Adobe Photoshop 24.0 (Windows), Adobe Photoshop 24.0 (Windows)
+History Parameters              : from image/png to application/vnd.adobe.photoshop, from application/vnd.adobe.photoshop to image/jpeg, converted from application/vnd.adobe.photoshop to image/jpeg
+History Changed                 : /, /, /
+Derived From Instance ID        : xmp.iid:c491fe8a-79df-ca41-9959-cdadba3b2ea2
+Derived From Document ID        : adobe:docid:photoshop:43203c01-62b6-174c-a7b6-3beba53f650d
+Derived From Original Document ID: xmp.did:ea1a5bbe-3005-4047-8ab4-dc8d1c90312c
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 2700
+Image Height                    : 3375
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 2700x3375
+Megapixels                      : 9.1

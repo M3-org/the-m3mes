@@ -1,0 +1,31 @@
+ExifTool Version Number         : 12.57
+File Name                       : 104.gif
+Directory                       : .
+File Size                       : 26 MB
+File Modification Date/Time     : 2023:08:06 03:06:23-04:00
+File Access Date/Time           : 2023:08:06 03:30:44-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 1920
+Image Height                    : 1079
+Has Color Map                   : Yes
+Color Resolution Depth          : 8
+Bits Per Pixel                  : 8
+Background Color                : 255
+Animation Iterations            : Infinite
+XMP Toolkit                     : Adobe XMP Core 9.0-c001 79.c0204b2def, 2023/02/02-12:14:24
+Original Document ID            : xmp.did:35f55e60-bf8c-4af4-9b93-f802fc62f72f
+Document ID                     : xmp.did:DBC08192F34B11EDAB9AF2449DAF8149
+Instance ID                     : xmp.iid:DBC08191F34B11EDAB9AF2449DAF8149
+Creator Tool                    : Adobe Photoshop 24.1 (Macintosh)
+Derived From Instance ID        : xmp.iid:4addc7ec-79ad-4247-9db5-3bd725ebc6dd
+Derived From Document ID        : xmp.did:35f55e60-bf8c-4af4-9b93-f802fc62f72f
+Transparent Color               : 255
+Frame Count                     : 70
+Duration                        : 4.90 s
+Image Size                      : 1920x1079
+Megapixels                      : 2.1

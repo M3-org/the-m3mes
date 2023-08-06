@@ -1,0 +1,23 @@
+ExifTool Version Number         : 12.57
+File Name                       : 27.png
+Directory                       : .
+File Size                       : 968 kB
+File Modification Date/Time     : 2023:08:06 03:04:47-04:00
+File Access Date/Time           : 2023:08:06 03:31:02-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 5956
+Image Height                    : 8547
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Pixels Per Unit X               : 5669
+Pixels Per Unit Y               : 5669
+Pixel Units                     : meters
+Image Size                      : 5956x8547
+Megapixels                      : 50.9

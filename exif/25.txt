@@ -1,0 +1,23 @@
+ExifTool Version Number         : 12.57
+File Name                       : 25.png
+Directory                       : .
+File Size                       : 32 MB
+File Modification Date/Time     : 2023:08:06 03:04:45-04:00
+File Access Date/Time           : 2023:08:06 03:30:58-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 7912
+Image Height                    : 7819
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Pixels Per Unit X               : 2834
+Pixels Per Unit Y               : 2834
+Pixel Units                     : meters
+Image Size                      : 7912x7819
+Megapixels                      : 61.9

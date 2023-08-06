@@ -1,0 +1,102 @@
+ExifTool Version Number         : 12.57
+File Name                       : 77.jpg
+Directory                       : .
+File Size                       : 27 MB
+File Modification Date/Time     : 2023:08:06 03:05:39-04:00
+File Access Date/Time           : 2023:08:06 03:18:33-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+Current IPTC Digest             : cdcffa7da8c7be09057076aeaf05c34e
+Coded Character Set             : UTF8
+Application Record Version      : 0
+IPTC Digest                     : cdcffa7da8c7be09057076aeaf05c34e
+X Resolution                    : 300
+Displayed Units X               : inches
+Y Resolution                    : 300
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 4294967128
+Global Altitude                 : 48
+URL List                        : 
+Slices Group Name               : fight for your jpegs
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 7430 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2023
+Photoshop Quality               : 12
+Photoshop Format                : Optimized
+XMP Toolkit                     : Adobe XMP Core 9.0-c000 79.171c27f, 2022/08/16-18:02:43
+Creator Tool                    : Adobe Photoshop 24.0 (Windows)
+Create Date                     : 2023:02:08 11:47:38+01:00
+Modify Date                     : 2023:03:07 13:54:03+01:00
+Metadata Date                   : 2023:03:07 13:54:03+01:00
+Format                          : image/jpeg
+Color Mode                      : RGB
+ICC Profile Name                : sRGB IEC61966-2.1
+Instance ID                     : xmp.iid:525471bc-3140-6d4f-b514-fc0cee011371
+Document ID                     : adobe:docid:photoshop:d82ec196-4dad-7d4a-a692-4d21f4ad3135
+Original Document ID            : xmp.did:e63c0a0e-dc18-3b4a-b21c-54e492c05c90
+Text Layer Name                 : 01100100 01101111 01101110 00100111 01110100 00100000 01111001 , 01000111 01001101 00100000 01100001 01101110 01101111 01101110 , 01010100 01101000 01100101 00100000 01001101 01100101 01101101 , 01100110 01110010 01100101 01100101 01100100 01101111 01101101 , 6529 - VMDXXIX , OM, FIGHT FOR AN OPEN METAVERSE, WAGMI, OPEN METAVERSE, DIGITAL RENAISSANCE
+Text Layer Text                 : 01100100 01101111 01101110 00100111 01110100 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00100000 01110011 01110100 01100101 01100001 01101100 00100000 01101101 01111001 00100000 01101010 01110000 01100101 01100111 01110011 00001010, 01000111 01001101 00100000 01100001 01101110 01101111 01101110 00001010, 01010100 01101000 01100101 00100000 01001101 01100101 01101101 01100101 01110011 00100000 01100010 01111001 00100000 00110110 00110101 00110010 00111001 00001010 00001010, 01100110 01110010 01100101 01100101 01100100 01101111 01101101 00100000 01110100 01101111 00100000 01110100 01110010 01100001 01101110 01110011 01100001 01100011 01110100 00001010 00001010, 6529 - VMDXXIX , OM, FIGHT FOR AN OPEN METAVERSE, WAGMI, OPEN METAVERSE, DIGITAL RENAISSANCE
+Document Ancestors              : F8E6C9A3F9BA95DAB0203CABEB2E66AD, adobe:docid:photoshop:10eb1ee4-ff00-3343-9865-1cc7b8293764, adobe:docid:photoshop:33616812-5a95-8743-837d-b9c5ae24b13c
+History Action                  : created, converted, saved, saved, converted, derived, saved
+History Instance ID             : xmp.iid:e63c0a0e-dc18-3b4a-b21c-54e492c05c90, xmp.iid:ac6f0b07-ec80-994d-a1b2-0f5d095ace6e, xmp.iid:248db1ad-b4c8-3b4c-9b38-1c45ece42665, xmp.iid:525471bc-3140-6d4f-b514-fc0cee011371
+History When                    : 2023:02:08 11:47:38+01:00, 2023:02:08 14:58:59+01:00, 2023:03:07 13:54:03+01:00, 2023:03:07 13:54:03+01:00
+History Software Agent          : Adobe Photoshop 24.0 (Windows), Adobe Photoshop 24.0 (Windows), Adobe Photoshop 24.0 (Windows), Adobe Photoshop 24.0 (Windows)
+History Parameters              : from image/png to application/vnd.adobe.photoshop, from application/vnd.adobe.photoshop to image/jpeg, converted from application/vnd.adobe.photoshop to image/jpeg
+History Changed                 : /, /, /
+Derived From Instance ID        : xmp.iid:248db1ad-b4c8-3b4c-9b38-1c45ece42665
+Derived From Document ID        : adobe:docid:photoshop:b761946c-a992-604a-9c67-f170583a02f0
+Derived From Original Document ID: xmp.did:e63c0a0e-dc18-3b4a-b21c-54e492c05c90
+Profile CMM Type                : Little CMS
+Profile Version                 : 4.3.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2010:02:24 12:00:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : sRGB IEC61966-2.1
+Profile Copyright               : No copyright, use freely
+Media White Point               : 0.9642 1 0.82491
+Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
+Red Matrix Column               : 0.43604 0.22249 0.01392
+Blue Matrix Column              : 0.14305 0.06061 0.71391
+Green Matrix Column             : 0.38512 0.7169 0.09706
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Chromaticity Channels           : 3
+Chromaticity Colorant           : Unknown
+Chromaticity Channel 1          : 0.64 0.33
+Chromaticity Channel 2          : 0.3 0.60001
+Chromaticity Channel 3          : 0.14999 0.06
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 5314
+Image Height                    : 7086
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 5314x7086
+Megapixels                      : 37.7

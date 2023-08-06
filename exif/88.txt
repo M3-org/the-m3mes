@@ -1,0 +1,89 @@
+ExifTool Version Number         : 12.57
+File Name                       : 88.jpg
+Directory                       : .
+File Size                       : 6.4 MB
+File Modification Date/Time     : 2023:08:06 03:05:54-04:00
+File Access Date/Time           : 2023:08:06 03:18:45-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 24.3 (Windows)
+Modify Date                     : 2023:04:18 10:42:18
+Color Space                     : Uncalibrated
+Exif Image Width                : 2800
+Exif Image Height               : 3500
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 318
+Thumbnail Length                : 7955
+Current IPTC Digest             : cdcffa7da8c7be09057076aeaf05c34e
+Coded Character Set             : UTF8
+Application Record Version      : 0
+IPTC Digest                     : cdcffa7da8c7be09057076aeaf05c34e
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : Forge-The-Memes.Still001
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 7955 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2023
+Photoshop Quality               : 10
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 9.0-c001 79.c0204b2, 2023/02/09-06:26:14
+Instance ID                     : xmp.iid:8d103dd0-2e3c-5f4b-ab0e-4334dfdb5490
+Document ID                     : adobe:docid:photoshop:64c66a7f-346c-f64f-aef1-ee3d07b075c2
+Original Document ID            : xmp.did:0b90f147-35a4-374e-9c6f-3a4bd7da9e6d
+Metadata Date                   : 2023:04:18 10:42:18+02:00
+Create Date                     : 2023:04:17 20:04:34+02:00
+Video Frame Rate                : 29.970030
+Video Field Order               : Progressive
+Video Pixel Aspect Ratio        : 1
+Start Time Scale                : 30000
+Start Time Sample Size          : 1001
+Format                          : image/jpeg
+Color Mode                      : RGB
+History Action                  : saved, saved, saved, converted, saved, converted, derived, saved
+History Instance ID             : 00b0d1cb-269e-f04a-067e-0f3d00000090, xmp.iid:1f7bd381-f47f-ab45-a1f9-9261c7be7836, xmp.iid:42f9c31a-e529-5e44-a9d3-6072d05c5f95, xmp.iid:61962ac0-23d3-e640-8176-dfa90ebffd46, xmp.iid:8d103dd0-2e3c-5f4b-ab0e-4334dfdb5490
+History When                    : 2023:04:17 20:05:07+02:00, 2023:04:17 20:05:07+02:00, 2023:04:17 20:05:07+02:00, 2023:04:18 10:42:18+02:00, 2023:04:18 10:42:18+02:00
+History Software Agent          : Adobe Premiere Pro 2023.0 (Windows), Adobe Premiere Pro 2023.0 (Windows), Adobe Premiere Pro 2023.0 (Windows), Adobe Photoshop 24.3 (Windows), Adobe Photoshop 24.3 (Windows)
+History Changed                 : /, /, /metadata, /, /
+History Parameters              : from PNG to image/png, from PNG to image/jpeg, converted from image/png to image/jpeg
+Derived From Instance ID        : xmp.iid:61962ac0-23d3-e640-8176-dfa90ebffd46
+Derived From Document ID        : xmp.did:61962ac0-23d3-e640-8176-dfa90ebffd46
+Derived From Original Document ID: xmp.did:0b90f147-35a4-374e-9c6f-3a4bd7da9e6d
+Video Frame Size W              : 4000
+Video Frame Size H              : 5000
+Video Frame Size Unit           : pixel
+Duration Value                  : 4266
+Duration Scale                  : 0.0333666666666667
+Start Timecode Time Format      : 29.97 fps (non-drop)
+Start Timecode Time Value       : 00:00:12:15
+Alt Timecode Time Value         : 00:00:12:15
+Alt Timecode Time Format        : 29.97 fps (non-drop)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 2800
+Image Height                    : 3500
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 2800x3500
+Megapixels                      : 9.8
+Thumbnail Image                 : (Binary data 7955 bytes, use -b option to extract)

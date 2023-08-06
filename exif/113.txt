@@ -1,0 +1,123 @@
+ExifTool Version Number         : 12.57
+File Name                       : 113.jpg
+Directory                       : .
+File Size                       : 10 MB
+File Modification Date/Time     : 2023:08:06 03:06:32-04:00
+File Access Date/Time           : 2023:08:06 03:26:56-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Photometric Interpretation      : RGB
+Make                            : Apple
+Camera Model Name               : iPhone
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 3
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 24.1 (Macintosh)
+Modify Date                     : 2023:04:17 09:29:42
+Host Computer                   : iPhone
+Copyright                       : Copyright 2023. All rights reserved.
+Exif Version                    : 0231
+Create Date                     : 2023:04:16 20:22:32
+Color Space                     : sRGB
+Exif Image Width                : 3500
+Exif Image Height               : 4375
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 534
+Thumbnail Length                : 8539
+Current IPTC Digest             : 17db3fc8c1d806161bbbf4db683e787b
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Copyright Notice                : Copyright 2023. All rights reserved.
+IPTC Digest                     : 17db3fc8c1d806161bbbf4db683e787b
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : 94B455F0-2E0B-47BF-A0CA-774904542C89
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 8539 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2023
+Photoshop Quality               : 12
+Photoshop Format                : Progressive
+Progressive Scans               : 3 Scans
+XMP Toolkit                     : Adobe XMP Core 9.0-c000 79.171c27fab, 2022/08/16-22:35:41
+Legacy IPTC Digest              : 17DB3FC8C1D806161BBBF4DB683E787B
+Color Mode                      : RGB
+ICC Profile Name                : sRGB IEC61966-2.1
+Format                          : image/jpeg
+Creator Tool                    : VSCO
+Metadata Date                   : 2023:04:17 09:29:42-04:00
+Document ID                     : adobe:docid:photoshop:cb6d72c3-3d44-7f4a-b1aa-9fc2985323c8
+Instance ID                     : xmp.iid:4bfe09ee-dead-4e82-a20a-cdfbd93f3115
+Original Document ID            : A737697617C9184793093DA0AE7F0166
+Rights                          : Copyright 2023. All rights reserved.
+History Action                  : saved, saved
+History Instance ID             : xmp.iid:94e55f51-a7db-43d6-bc9f-f30c7aae8a53, xmp.iid:4bfe09ee-dead-4e82-a20a-cdfbd93f3115
+History When                    : 2023:04:17 09:29:42-04:00, 2023:04:17 09:29:42-04:00
+History Software Agent          : Adobe Photoshop 24.1 (Macintosh), Adobe Photoshop 24.1 (Macintosh)
+History Changed                 : /, /
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 3500
+Image Height                    : 4375
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 3500x4375
+Megapixels                      : 15.3
+Thumbnail Image                 : (Binary data 8539 bytes, use -b option to extract)

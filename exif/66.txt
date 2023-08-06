@@ -1,0 +1,221 @@
+ExifTool Version Number         : 12.57
+File Name                       : 66.png
+Directory                       : .
+File Size                       : 19 MB
+File Modification Date/Time     : 2023:08:06 03:05:24-04:00
+File Access Date/Time           : 2023:08:06 03:18:22-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 4000
+Image Height                    : 5000
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Adam7 Interlace
+Pixels Per Unit X               : 11811
+Pixels Per Unit Y               : 11811
+Pixel Units                     : meters
+XMP Toolkit                     : Adobe XMP Core 7.1-c000 79.b0f8be90, 2021/12/15-21:25:15
+Rating                          : 0
+Modify Date                     : 2023:01:20 01:14:44+04:00
+Create Date                     : 2018:10:11 17:49:29
+Label                           : Revisione
+Metadata Date                   : 2023:01:20 01:14:44+04:00
+Creator Tool                    : Adobe Photoshop CC 2017 (Macintosh)
+Format                          : image/png
+Serial Number                   : 073022002154
+Lens Info                       : 24-70mm f/?
+Lens                            : EF24-70mm f/2.8L II USM
+Lens Serial Number              : 1020003467
+Image Number                    : 0
+Approximate Focus Distance      : 0.43
+Flash Compensation              : 0
+Firmware                        : 1.0.1
+Date Created                    : 2018:10:11 17:49:29.017
+Color Mode                      : RGB
+History                         : 2022-07-06T23:50:12+04:00.File 5Z4A8899-2-.tif aperto.2022-07-06T23:53:48+04:00.File 5Z4A8899-3-.tif salvato.2022-07-06T23:54:18+04:00.File 5Z4A8899-3-.tif salvato.2022-07-06T23:54:59+04:00.File 5Z4A8899-3-.tif salvato.2023-01-05T17:06:27+04:00.File 5Z4A8899-3-.tif aperto.2023-01-05T17:15:27+04:00.File 5Z4A8899-4-.tif salvato.2023-01-05T17:31:30+04:00.File 5Z4A8899-5-.tif salvato.2023-01-05T17:35:11+04:00.File 5Z4A8899-6-.tif salvato.2023-01-05T17:40:32+04:00.File 5Z4A8899-8-.tif salvato.2023-01-05T17:49:10+04:00.File 5Z4A8899-8-.tif salvato.2023-01-05T17:51:45+04:00.File 5Z4A8899-8-.tif salvato.2023-01-05T17:52:58+04:00.File 5Z4A8899-8-.tif salvato.2023-01-05T21:57+04:00.File 5Z4A8899-9-.tif salvato.2023-01-05T21:59:49+04:00.File 5Z4A8899-10-.tif salvato.2023-01-05T22:03:36+04:00.File 5Z4A8899-11-.tif salvato.2023-01-05T22:07:58+04:00.File 5Z4A8899-12-.tif salvato.2023-01-05T22:16:30+04:00.File 5Z4A8899-13-.tif salvato.2023-01-05T22:31:03+04:00.File 5Z4A8899-43-.tif salvato.2023-01-05T22:38:55+04:00.File 5Z4A8899-44-.tif salvato.2023-01-05T22:42:38+04:00.File 5Z4A8899-45-.tif salvato.2023-01-05T22:43:57+04:00.File 5Z4A8899-46-.tif salvato.2023-01-05T22:44:23+04:00.File 5Z4A8899-46-.tif salvato.2023-01-05T22:53:51+04:00.File 5Z4A8899-47-.tif salvato.2023-01-05T23:00:21+04:00.File 5Z4A8899-48-.tif salvato.2023-01-05T23:15:16+04:00.File 5Z4A8899-49-.tif salvato.2023-01-05T23:17:30+04:00.File 5Z4A8899-50-.tif salvato.2023-01-05T23:29:10+04:00.File 5Z4A8899-51-.tif salvato.2023-01-05T23:34:56+04:00.File 5Z4A8899-52-.tif salvato.2023-01-05T23:36:09+04:00.File 5Z4A8899-52-.tif salvato.2023-01-05T23:41:30+04:00.File 5Z4A8899-52-.tif salvato.2023-01-05T23:54:04+04:00.File 5Z4A8899-53-.tif salvato.2023-01-05T23:58:14+04:00.File 5Z4A8899-53-.tif salvato.2023-01-06T00:09:06+04:00.File 5Z4A8899-54-.tif salvato.2023-01-06T00:10:49+04:00.File 5Z4A8899-55-.tif salvato.2023-01-06T00:14:01+04:00.File 5Z4A8899-55-.tif salvato.2023-01-06T00:17:39+04:00.File 5Z4A8899-55-.tif salvato.2023-01-06T00:23:49+04:00.File 5Z4A8899-56-.tif salvato.2023-01-06T00:28:45+04:00.File 5Z4A8899-56-.tif salvato.2023-01-06T00:35:13+04:00.File 5Z4A8899-56-.tif salvato.2023-01-06T00:51:16+04:00.File 5Z4A8899-57-.tif salvato.2023-01-06T01:00:18+04:00.File 5Z4A8899-58-.tif salvato.2023-01-06T01:08:07+04:00.File 5Z4A8899-60 livell chiusi-.tif salvato.2023-01-06T01:16:41+04:00.File 5Z4A8899-61 livell chiusi-.tif salvato.2023-01-06T01:27:25+04:00.File 5Z4A8899-62 livell chiusi-.tif salvato.2023-01-06T01:30:50+04:00.File 5Z4A8899-62 livell chiusi-.tif aperto.2023-01-06T01:36:05+04:00.File 5Z4A8899-63 livell chiusi-.tif salvato.2023-01-06T16:28:22+04:00.File 5Z4A8899-63 livell chiusi-.tif aperto.2023-01-06T16:34:18+04:00.File 5Z4A8899-43 livell chiusi-.tif salvato.2023-01-08T17:06:16+04:00.File 5Z4A8899-44 livell chiusi-.tif salvato.2023-01-08T17:07:10+04:00.File 5Z4A8899-64 livell chiusi-.tif salvato.2023-01-08T17:08:19+04:00.File 5Z4A8899-64 livell chiusi-.tif salvato.2023-01-08T17:09:55+04:00.File 5Z4A8899-65 livell chiusi-.tif salvato.2023-01-08T17:15:24+04:00.File 5Z4A8899-66 livell chiusi-.tif salvato.2023-01-08T17:26:24+04:00.File 5Z4A8899-69 livell chiusi-.tif salvato.2023-01-08T17:31:41+04:00.File 5Z4A8899-69 livell chiusi-.tif salvato.2023-01-08T17:40:11+04:00.File 5Z4A8899-70 livell chiusi-.tif salvato.2023-01-08T17:43:19+04:00.File 5Z4A8899-71 livell chiusi-.tif salvato.2023-01-08T18:00:48+04:00.File 5Z4A8899-71 livell chiusi-.tif salvato.2023-01-08T18:19:29+04:00.File 5Z4A8899-72 livell chiusi-.tif salvato.2023-01-08T18:24:54+04:00.File 5Z4A8899-73 livell chiusi-.tif salvato.2023-01-08T18:27:26+04:00.File 5Z4A8899-74 livell chiusi-.tif salvato.2023-01-20T01:03:02+04:00.File 5Z4A8899-74 livell chiusi-.tif aperto.2023-01-20T01:09:10+04:00.File 5Z4A8899-X-.tif salvato.2023-01-20T01:09:26+04:00.File 5Z4A8899-X-.tif salvato.2023-01-20T01:10:11+04:00.File 5Z4A8899-X-.png salvato.2023-01-20T01:11:01+04:00.File 5Z4A8899-X-.png salvato.2023-01-20T01:11:23+04:00.File 5Z4A8899-X-.tif salvato.2023-01-20T01:14:34+04:00.File 5Z4A8899-X-.tif salvato.2023-01-20T01:14:44+04:00.File 5Z4A8899-X-.png salvato.
+Document ID                     : adobe:docid:photoshop:cb62112b-5faa-6444-90ff-1c2504e4255c
+Original Document ID            : 21BD18EE2A83B91D576D6C1B5F476C2C
+Instance ID                     : xmp.iid:6f84b59c-49da-4b2b-8edf-bba5bbbd2332
+Raw File Name                   : 5Z4A8899.CR2
+Version                         : 9.10.1
+Process Version                 : 6.7
+White Balance                   : As Shot
+Auto White Version              : 134348800
+Color Temperature               : 5100
+Tint                            : +2
+Saturation                      : 0
+Sharpness                       : 25
+Luminance Smoothing             : 0
+Color Noise Reduction           : 25
+Vignette Amount                 : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Vibrance                        : 0
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Post Crop Vignette Amount       : 0
+Grain Amount                    : 0
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Aspect              : 0
+Perspective Upright             : Off
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Auto Lateral CA                 : 0
+Exposure 2012                   : 0.00
+Contrast 2012                   : 0
+Highlights 2012                 : 0
+Shadows 2012                    : 0
+Whites 2012                     : 0
+Blacks 2012                     : 0
+Clarity 2012                    : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Dehaze                          : 0
+Tone Map Strength               : 0
+Convert To Grayscale            : False
+Tone Curve Name                 : Medium Contrast
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Adobe Standard v2
+Camera Profile Digest           : 35006ED9DF9B910D21BCF65B5BA7347F
+Lens Profile Setup              : LensDefaults
+Upright Version                 : 151388160
+Upright Center Mode             : 0
+Upright Center Norm X           : 0.5
+Upright Center Norm Y           : 0.5
+Upright Focal Mode              : 0
+Upright Focal Length 35mm       : 35
+Upright Preview                 : False
+Upright Transform Count         : 6
+Upright Four Segments Count     : 0
+Has Settings                    : True
+Has Crop                        : False
+Already Applied                 : True
+Photometric Interpretation      : RGB
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 3
+Planar Configuration            : Chunky
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Make                            : Canon
+Camera Model Name               : Canon EOS 5DS R
+Exif Version                    : 0230
+Color Space                     : sRGB
+Exif Image Width                : 3999
+Exif Image Height               : 4999
+Date/Time Original              : 2018:10:11 17:49:29
+Exposure Time                   : 1/100
+F Number                        : 8.0
+Exposure Program                : Manual
+Shutter Speed Value             : 1/100
+Aperture Value                  : 8.0
+Exposure Compensation           : 0
+Max Aperture Value              : 2.8
+Metering Mode                   : Multi-segment
+Focal Length                    : 50.0 mm
+Focal Plane X Resolution        : 2413.33334350586
+Focal Plane Y Resolution        : 2413.33334350586
+Focal Plane Resolution Unit     : cm
+Custom Rendered                 : Normal
+Exposure Mode                   : Manual
+Scene Capture Type              : Standard
+Sub Sec Time Original           : 17
+Sensitivity Type                : 2
+Recommended Exposure Index      : 200
+Creator                         : Santiago Garces
+Document Ancestors              : adobe:docid:photoshop:a34c2f29-0426-7541-bdf3-aee1d3938443, adobe:docid:photoshop:a45d739b-8e3c-194e-963b-0e788a4217d8, adobe:docid:photoshop:c200401a-e0b9-5547-bb77-d14fb4e27fa8, xmp.did:1e2c29e8-4442-4d3a-849c-bee1e7ce746f, xmp.did:5168c486-b12a-4421-b59c-f80e04f600b7, xmp.did:5b070d45-85f4-4036-8280-f00be88e2c78, xmp.did:5fef707d-4364-4663-b546-0516173e5f98, xmp.did:a0801f4b-957e-4fe6-96c0-2e548f627a55, xmp.did:dd082ab6-a323-4ddb-9400-d2d348344006
+History Action                  : saved, saved, derived, saved, saved, saved, saved, saved, saved, converted, derived, saved, saved, converted, derived, saved, saved, converted, derived, saved
+History Instance ID             : xmp.iid:6ea4f238-f9ce-420d-84b1-82dc4dec565b, xmp.iid:8652d0f9-ada8-44e5-af77-f4b65f791d04, xmp.iid:cc53eb1f-e6f6-40ce-8231-8222a20ceb4f, xmp.iid:8b1dd2be-bf6e-4f47-9c91-fbf4e2f07954, xmp.iid:dd46d9e9-5b5d-4e13-b08b-157e2930c2f2, xmp.iid:252934c4-f7b7-4c8d-a4c4-cd79d0fb80c8, xmp.iid:7c11d3bc-a8e4-489b-8e72-87fb5da60b70, xmp.iid:f4bd7276-9929-422e-abd0-9c0d21ec3786, xmp.iid:1d958316-3881-4023-822d-98f8a5104aa4, xmp.iid:16ef93c7-6003-487d-81e9-8231658214b3, xmp.iid:4bab71d3-4048-4b79-a53c-17b911068611, xmp.iid:4a28e044-4f60-462c-82ae-506be14c607a, xmp.iid:6f84b59c-49da-4b2b-8edf-bba5bbbd2332
+History When                    : 2017:10:16 17:16:05+02:00, 2017:10:16 17:16:05+02:00, 2017:10:20 02:30:44+02:00, 2017:10:20 02:34:15+02:00, 2018:01:31 00:20:54+01:00, 2018:01:31 00:27:27+01:00, 2022:07:06 23:53:48+04:00, 2023:01:20 01:10:11+04:00, 2023:01:20 01:10:11+04:00, 2023:01:20 01:11:23+04:00, 2023:01:20 01:11:23+04:00, 2023:01:20 01:14:44+04:00, 2023:01:20 01:14:44+04:00
+History Software Agent          : Adobe Photoshop Camera Raw 9.10, Adobe Photoshop Camera Raw 9.10.1 (Macintosh), Adobe Photoshop Camera Raw 9.10.1 (Macintosh), Adobe Photoshop CC 2017 (Macintosh), Adobe Bridge CC 2017 (Macintosh), Adobe Bridge CC 2017 (Macintosh), Adobe Photoshop 23.2 (Macintosh), Adobe Photoshop 23.2 (Macintosh), Adobe Photoshop 23.2 (Macintosh), Adobe Photoshop 23.2 (Macintosh), Adobe Photoshop 23.2 (Macintosh), Adobe Photoshop 23.2 (Macintosh), Adobe Photoshop 23.2 (Macintosh)
+History Changed                 : /metadata, /metadata, /, /, /metadata, /metadata, /, /, /, /, /, /, /
+History Parameters              : converted from image/x-canon-cr2 to image/tiff, from image/tiff to image/png, converted from image/tiff to image/png, from image/png to image/tiff, converted from image/png to image/tiff, from image/tiff to image/png, converted from image/tiff to image/png
+Derived From Instance ID        : xmp.iid:4a28e044-4f60-462c-82ae-506be14c607a
+Derived From Document ID        : xmp.did:4bab71d3-4048-4b79-a53c-17b911068611
+Derived From Original Document ID: 21BD18EE2A83B91D576D6C1B5F476C2C
+Tone Curve                      : 0, 0, 32, 22, 64, 56, 128, 128, 192, 196, 255, 255
+Tone Curve Red                  : 0, 0, 255, 255
+Tone Curve Green                : 0, 0, 255, 255
+Tone Curve Blue                 : 0, 0, 255, 255
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Bits Per Sample                 : 8, 8, 8
+ISO                             : 200
+Flash Fired                     : False
+Flash Return                    : No return detection
+Flash Mode                      : Off
+Flash Function                  : False
+Flash Red Eye Mode              : False
+Aperture                        : 8.0
+Image Size                      : 4000x5000
+Megapixels                      : 20.0
+Scale Factor To 35 mm Equivalent: 1.6
+Shutter Speed                   : 1/100
+Flash                           : Off, Did not fire
+Circle Of Confusion             : 0.018 mm
+Depth Of Field                  : 0.019 m (0.421 - 0.440 m)
+Field Of View                   : 24.9 deg
+Focal Length                    : 50.0 mm (35 mm equivalent: 81.6 mm)
+Hyperfocal Distance             : 16.96 m
+Light Value                     : 11.6
+Lens ID                         : Canon EF 24-70mm f/2.8L II USM or Sigma 24-70mm f/2.8 DG OS HSM | A

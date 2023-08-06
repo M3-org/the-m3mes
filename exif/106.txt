@@ -1,0 +1,97 @@
+ExifTool Version Number         : 12.57
+File Name                       : 106.jpg
+Directory                       : .
+File Size                       : 12 MB
+File Modification Date/Time     : 2023:08:06 03:06:25-04:00
+File Access Date/Time           : 2023:08:06 03:30:45-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+Current IPTC Digest             : 9a89ad5d286dba2102c8cba967053fdb
+Coded Character Set             : UTF8
+Application Record Version      : 0
+IPTC Digest                     : 9a89ad5d286dba2102c8cba967053fdb
+X Resolution                    : 300
+Displayed Units X               : inches
+Y Resolution                    : 300
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 135
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : meme_currency
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 4680 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop CC 2019
+Photoshop Quality               : 10
+Photoshop Format                : Progressive
+Progressive Scans               : 3 Scans
+XMP Toolkit                     : Adobe XMP Core 5.6-c145 79.163499, 2018/08/13-16:40:22
+Creator Tool                    : Adobe Photoshop CC 2019 (Windows)
+Create Date                     : 2023:01:31 19:43:08+01:00
+Metadata Date                   : 2023:03:11 15:20:47+01:00
+Modify Date                     : 2023:03:11 15:20:47+01:00
+Format                          : image/jpeg
+Instance ID                     : xmp.iid:6d52caec-d1f8-3b47-89f1-34c629bd69b5
+Document ID                     : adobe:docid:photoshop:470b3758-bdc5-7843-b4e1-3e60e5389947
+Original Document ID            : xmp.did:82f60a05-8c75-5042-ae01-ed00b381ebb6
+Legacy IPTC Digest              : D3C99F4B3D8DEA288548356A84159C2B
+Color Mode                      : RGB
+ICC Profile Name                : Adobe RGB (1998)
+History Action                  : created, saved, saved, converted, derived, saved, saved
+History Instance ID             : xmp.iid:82f60a05-8c75-5042-ae01-ed00b381ebb6, xmp.iid:78852f59-45fc-7f4d-99d6-469402af9280, xmp.iid:a515677c-1af4-574a-9497-662e5e684066, xmp.iid:0ecd5b8c-ffda-114d-b33c-391d9b65dd44, xmp.iid:6d52caec-d1f8-3b47-89f1-34c629bd69b5
+History When                    : 2023:01:31 19:43:08+01:00, 2023:01:31 20:01:50+01:00, 2023:03:11 15:20:24+01:00, 2023:03:11 15:20:24+01:00, 2023:03:11 15:20:47+01:00
+History Software Agent          : Adobe Photoshop CC 2019 (Windows), Adobe Photoshop CC 2019 (Windows), Adobe Photoshop CC 2019 (Windows), Adobe Photoshop CC 2019 (Windows), Adobe Photoshop CC 2019 (Windows)
+History Changed                 : /, /, /, /
+History Parameters              : from application/vnd.adobe.photoshop to image/jpeg, converted from application/vnd.adobe.photoshop to image/jpeg
+Derived From Instance ID        : xmp.iid:a515677c-1af4-574a-9497-662e5e684066
+Derived From Document ID        : adobe:docid:photoshop:c20e5ddb-b2c2-e643-ad9f-77674b67ffe6
+Derived From Original Document ID: xmp.did:82f60a05-8c75-5042-ae01-ed00b381ebb6
+Document Ancestors              : 34E45B27B80C1A83990879D53C584B90, 477BB9FD086032C47DAF9757FDAD1DE1, 7FFD879099E0AF57E51B5E7641B72D3F, D5D55A7AC9F83A80450DBD14F617B562, F3633B18CC502A00B7982A333B031059, adobe:docid:photoshop:074c4737-7a60-6c45-b2da-7bd59d5fea9b, adobe:docid:photoshop:54619959-337a-c34f-bf3b-d0cd59ad637d, adobe:docid:photoshop:80f6ea83-62b8-1a4c-995b-bd22e4aa759d, adobe:docid:photoshop:8953b321-ef92-11e7-a7af-f085d1ee1459, adobe:docid:photoshop:c20e5ddb-b2c2-e643-ad9f-77674b67ffe6, xmp.did:391ef302-6a42-1a47-96a0-04ae78552ec5, xmp.did:4aaecc38-a795-8b48-b4a8-c317b03b0376, xmp.did:4f1baf2a-2f9d-4d4c-af65-b8cf1a0d1011, xmp.did:5590ab26-51fb-744d-befc-7aa6825d2dca, xmp.did:82f60a05-8c75-5042-ae01-ed00b381ebb6, xmp.did:F87F117407206811822AE18E52495944, xmp.did:d13c5585-bdb2-4d41-959c-44a663fa685e
+Profile CMM Type                : Adobe Systems Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1999:06:03 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : none
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Media-Relative Colorimetric
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Adobe Systems Inc.
+Profile ID                      : 0
+Profile Copyright               : Copyright 1999 Adobe Systems Incorporated
+Profile Description             : Adobe RGB (1998)
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Tone Reproduction Curve     : (Binary data 14 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 14 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+Red Matrix Column               : 0.60974 0.31111 0.01947
+Green Matrix Column             : 0.20528 0.62567 0.06087
+Blue Matrix Column              : 0.14919 0.06322 0.74457
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 8000
+Image Height                    : 3386
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 8000x3386
+Megapixels                      : 27.1

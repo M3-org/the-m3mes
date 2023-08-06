@@ -1,0 +1,28 @@
+ExifTool Version Number         : 12.57
+File Name                       : 123.png
+Directory                       : .
+File Size                       : 3.7 MB
+File Modification Date/Time     : 2023:08:06 03:06:47-04:00
+File Access Date/Time           : 2023:08:06 03:27:01-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 2000
+Image Height                    : 3000
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Software                        : Adobe ImageReady
+XMP Toolkit                     : Adobe XMP Core 9.0-c001 79.c0204b2def, 2023/02/02-12:14:24
+Original Document ID            : xmp.did:00f4ce0f-d6e8-ae45-bfee-26db45a26e06
+Document ID                     : xmp.did:513F4F4C000311EE80BAC851B8697A95
+Instance ID                     : xmp.iid:513F4F4B000311EE80BAC851B8697A95
+Creator Tool                    : Adobe Photoshop 24.3 (Windows)
+Derived From Instance ID        : xmp.iid:78bb0ef4-1991-744a-881e-17db5f64854e
+Derived From Document ID        : xmp.did:00f4ce0f-d6e8-ae45-bfee-26db45a26e06
+Image Size                      : 2000x3000
+Megapixels                      : 6.0

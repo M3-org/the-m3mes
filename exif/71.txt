@@ -1,0 +1,130 @@
+ExifTool Version Number         : 12.57
+File Name                       : 71.jpg
+Directory                       : .
+File Size                       : 584 kB
+File Modification Date/Time     : 2023:08:06 03:05:28-04:00
+File Access Date/Time           : 2023:08:06 03:18:28-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+Current IPTC Digest             : cdcffa7da8c7be09057076aeaf05c34e
+Coded Character Set             : UTF8
+Application Record Version      : 0
+IPTC Digest                     : cdcffa7da8c7be09057076aeaf05c34e
+X Resolution                    : 144
+Displayed Units X               : inches
+Y Resolution                    : 144
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : Screenshot 2023-02-22 at 6.14.51 PM
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 8563 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2023
+Photoshop Quality               : 12
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 9.0-c000 79.da4a7e5ef, 2022/11/22-13:50:07
+Create Date                     : 2023:02:22 18:14:53+02:00
+Metadata Date                   : 2023:02:22 18:15:29+02:00
+Modify Date                     : 2023:02:22 18:15:29+02:00
+Format                          : image/jpeg
+Color Mode                      : RGB
+ICC Profile Name                : Display
+Instance ID                     : xmp.iid:f92bab2d-0033-4e1c-ba3d-1587655d7488
+Document ID                     : adobe:docid:photoshop:be7be565-9855-7740-a4cd-b1face97a35f
+Original Document ID            : xmp.did:cf311b45-365f-4b6b-b8bd-ddeb43b1080a
+History Action                  : saved, converted, derived, saved
+History Instance ID             : xmp.iid:cf311b45-365f-4b6b-b8bd-ddeb43b1080a, xmp.iid:f92bab2d-0033-4e1c-ba3d-1587655d7488
+History When                    : 2023:02:22 18:15:29+02:00, 2023:02:22 18:15:29+02:00
+History Software Agent          : Adobe Photoshop 24.1 (Macintosh), Adobe Photoshop 24.1 (Macintosh)
+History Changed                 : /, /
+History Parameters              : from image/png to image/jpeg, converted from image/png to image/jpeg
+Derived From Instance ID        : xmp.iid:cf311b45-365f-4b6b-b8bd-ddeb43b1080a
+Derived From Document ID        : xmp.did:cf311b45-365f-4b6b-b8bd-ddeb43b1080a
+Derived From Original Document ID: xmp.did:cf311b45-365f-4b6b-b8bd-ddeb43b1080a
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2023:02:19 11:05:12
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : 0
+Profile Description             : Display
+Profile Description ML (hr-HR)  : Studio Display
+Profile Description ML (ko-KR)  : Studio Display
+Profile Description ML (nb-NO)  : Studio Display
+Profile Description ML (hu-HU)  : Studio Display
+Profile Description ML (cs-CZ)  : Studio Display
+Profile Description ML (da-DK)  : Studio Display
+Profile Description ML (nl-NL)  : Studio Display
+Profile Description ML (fi-FI)  : Studio Display
+Profile Description ML (it-IT)  : Studio Display
+Profile Description ML (es-ES)  : Studio Display
+Profile Description ML (ro-RO)  : Studio Display
+Profile Description ML (fr-CA)  : Studio Display
+Profile Description ML (uk-UA)  : Studio Display
+Profile Description ML (he-IL)  : Studio Display
+Profile Description ML (zh-TW)  : Studio Display
+Profile Description ML (vi-VN)  : Studio Display
+Profile Description ML (sk-SK)  : Studio Display
+Profile Description ML (zh-CN)  : Studio Display
+Profile Description ML (ru-RU)  : Studio Display
+Profile Description ML (en-GB)  : Studio Display
+Profile Description ML (fr-FR)  : Studio Display
+Profile Description ML (hi-IN)  : Studio Display
+Profile Description ML (th-TH)  : Studio Display
+Profile Description ML (ca-ES)  : Studio Display
+Profile Description ML (en-AU)  : Studio Display
+Profile Description ML (es-XL)  : Studio Display
+Profile Description ML (de-DE)  : Studio Display
+Profile Description ML          : Studio Display
+Profile Description ML (pt-BR)  : Studio Display
+Profile Description ML (pl-PL)  : Studio Display
+Profile Description ML (el-GR)  : Studio Display
+Profile Description ML (sv-SE)  : Studio Display
+Profile Description ML (tr-TR)  : Studio Display
+Profile Description ML (pt-PT)  : Studio Display
+Profile Description ML (ja-JP)  : Studio Display
+Profile Copyright               : Copyright Apple Inc., 2023
+Media White Point               : 0.94955 1 1.08902
+Red Matrix Column               : 0.5143 0.2411 -0.00105
+Green Matrix Column             : 0.29224 0.69287 0.04182
+Blue Matrix Column              : 0.15767 0.06602 0.78412
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Video Card Gamma                : (Binary data 48 bytes, use -b option to extract)
+Native Display Info             : (Binary data 62 bytes, use -b option to extract)
+Make And Model                  : (Binary data 40 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 1197
+Image Height                    : 1200
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1197x1200
+Megapixels                      : 1.4

@@ -1,0 +1,35 @@
+ExifTool Version Number         : 12.57
+File Name                       : 58.png
+Directory                       : .
+File Size                       : 60 MB
+File Modification Date/Time     : 2023:08:06 03:05:16-04:00
+File Access Date/Time           : 2023:08:06 03:18:09-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 4961
+Image Height                    : 7016
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+SRGB Rendering                  : Perceptual
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Photometric Interpretation      : RGB
+X Resolution                    : 600
+Y Resolution                    : 600
+Resolution Unit                 : inches
+Color Space                     : sRGB
+Exif Image Width                : 4961
+Exif Image Height               : 7016
+Pixels Per Unit X               : 23622
+Pixels Per Unit Y               : 23622
+Pixel Units                     : meters
+XMP Toolkit                     : XMP Core 6.0.0
+Title                           : Meme_-_Bear_Survival_Tactics
+Artwork Title                   : Meme_-_Bear_Survival_Tactics
+Image Size                      : 4961x7016
+Megapixels                      : 34.8

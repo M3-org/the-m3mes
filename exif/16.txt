@@ -1,0 +1,268 @@
+ExifTool Version Number         : 12.57
+File Name                       : 16.jpg
+Directory                       : .
+File Size                       : 11 MB
+File Modification Date/Time     : 2023:08:06 03:04:38-04:00
+File Access Date/Time           : 2023:08:06 03:30:54-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : NIKON CORPORATION
+Camera Model Name               : NIKON D810
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop Lightroom 6.12 (Macintosh)
+Modify Date                     : 2022:09:11 16:56:56
+Artist                          : Tony Sellen
+Exposure Time                   : 1/2000
+F Number                        : 8.0
+Exposure Program                : Aperture-priority AE
+ISO                             : 500
+Sensitivity Type                : Recommended Exposure Index
+Exif Version                    : 0230
+Date/Time Original              : 2017:09:03 11:39:25
+Create Date                     : 2017:09:03 11:39:25
+Shutter Speed Value             : 1/2000
+Aperture Value                  : 8.0
+Exposure Compensation           : -2/3
+Max Aperture Value              : 2.0
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 50.0 mm
+User Comment                    : LondonFineArtPhoto
+Sub Sec Time Original           : 18
+Color Space                     : sRGB
+Focal Plane X Resolution        : 2048.402222
+Focal Plane Y Resolution        : 2048.402222
+Focal Plane Resolution Unit     : cm
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Custom
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 50 mm
+Scene Capture Type              : Standard
+Gain Control                    : Low gain up
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+Serial Number                   : 6015475
+Lens Info                       : 50mm f/2
+Lens Model                      : Zeiss Makro-Planar T* 2/50 ZF.2
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 1042
+Thumbnail Length                : 9268
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Current IPTC Digest             : b1d4767c31b787f7876a00701000a23c
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Time Created                    : 11:39:25
+Digital Creation Date           : 2017:09:03
+Digital Creation Time           : 11:39:25
+By-line                         : Tony Sellen
+Photoshop Thumbnail             : (Binary data 9268 bytes, use -b option to extract)
+IPTC Digest                     : b1d4767c31b787f7876a00701000a23c
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+XMP Toolkit                     : Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55
+Creator Tool                    : Adobe Photoshop Lightroom 6.12 (Macintosh)
+Metadata Date                   : 2022:09:11 16:56:56+01:00
+Format                          : image/jpeg
+Lens                            : Zeiss Makro-Planar T* 2/50 ZF.2
+Image Number                    : 25778
+Distortion Correction Already Applied: True
+Lateral Chromatic Aberration Correction Already Applied: True
+Vignette Correction Already Applied: True
+Date Created                    : 2017:09:03 11:39:25.018
+Document ID                     : xmp.did:0c49a7e3-d2b8-44cb-a829-70640d662596
+Original Document ID            : CF34060FB5E1E4C3BFDC8F8311D448BA
+Instance ID                     : xmp.iid:0c49a7e3-d2b8-44cb-a829-70640d662596
+Version                         : 9.12
+Process Version                 : 6.7
+Auto White Version              : 134348800
+Incremental Temperature         : 0
+Incremental Tint                : 0
+Luminance Smoothing             : 0
+Color Noise Reduction           : 0
+Vignette Amount                 : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Vibrance                        : 0
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Post Crop Vignette Amount       : 0
+Grain Amount                    : 0
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Aspect              : 0
+Perspective Upright             : Off
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Auto Lateral CA                 : 0
+Exposure 2012                   : 0.00
+Contrast 2012                   : 0
+Highlights 2012                 : 0
+Shadows 2012                    : 0
+Whites 2012                     : 0
+Blacks 2012                     : 0
+Clarity 2012                    : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Dehaze                          : 0
+Tone Map Strength               : 0
+Convert To Grayscale            : False
+Tone Curve Name                 : Linear
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Embedded
+Lens Profile Setup              : LensDefaults
+Upright Version                 : 151388160
+Upright Center Mode             : 0
+Upright Center Norm X           : 0.5
+Upright Center Norm Y           : 0.5
+Upright Focal Mode              : 0
+Upright Focal Length 35mm       : 35
+Upright Preview                 : False
+Upright Transform Count         : 6
+Upright Four Segments Count     : 0
+Has Settings                    : True
+Has Crop                        : False
+Already Applied                 : True
+Creator                         : Tony Sellen
+Document Ancestors              : adobe:docid:photoshop:51a36b51-7237-1180-b821-831593248255, xmp.did:d9966678-7b4f-42dd-83a3-9e84c719a54c
+History Action                  : saved, converted, saved, derived, saved, saved, derived, saved
+History Instance ID             : xmp.iid:9368a66a-fbb8-429b-8e0f-6e07a544a18b, xmp.iid:ce8b9216-0cc7-496e-bfe0-2b6ecb4e1679, xmp.iid:36b4e574-b64a-4740-a3fe-516ece787fc1, xmp.iid:1a946dc6-75dd-4222-90fe-ad519dc1ecb6, xmp.iid:0c49a7e3-d2b8-44cb-a829-70640d662596
+History When                    : 2022:09:10 21:01:08+01:00, 2022:09:11 08:46:29+01:00, 2022:09:11 08:49:08+01:00, 2022:09:11 16:55:25+01:00, 2022:09:11 16:56:56+01:00
+History Software Agent          : Adobe Photoshop Lightroom Classic 11.2 (Macintosh), Adobe Photoshop Lightroom 6.12 (Macintosh), Adobe Photoshop Camera Raw 9.6.1 (Macintosh), Adobe Photoshop CC 2015.5 (Macintosh), Adobe Photoshop Lightroom 6.12 (Macintosh)
+History Changed                 : /metadata, /metadata, /, /, /
+History Parameters              : from image/x-nikon-nef to image/dng, converted from image/dng to image/tiff, converted from image/tiff to image/jpeg, saved to new location
+Derived From Instance ID        : xmp.iid:1a946dc6-75dd-4222-90fe-ad519dc1ecb6
+Derived From Document ID        : adobe:docid:photoshop:51a36b51-7237-1180-b821-831593248255
+Derived From Original Document ID: CF34060FB5E1E4C3BFDC8F8311D448BA
+Tone Curve                      : 0, 0, 255, 255
+Tone Curve Red                  : 0, 0, 255, 255
+Tone Curve Green                : 0, 0, 255, 255
+Tone Curve Blue                 : 0, 0, 255, 255
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 5000
+Image Height                    : 4500
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 8.0
+Image Size                      : 5000x4500
+Megapixels                      : 22.5
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/2000
+Date/Time Original              : 2017:09:03 11:39:25.18
+Thumbnail Image                 : (Binary data 9268 bytes, use -b option to extract)
+Date/Time Created               : 2017:09:03 11:39:25
+Digital Creation Date/Time      : 2017:09:03 11:39:25
+Circle Of Confusion             : 0.030 mm
+Field Of View                   : 39.6 deg
+Focal Length                    : 50.0 mm (35 mm equivalent: 50.0 mm)
+Hyperfocal Distance             : 10.40 m
+Light Value                     : 14.6

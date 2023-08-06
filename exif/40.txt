@@ -1,0 +1,157 @@
+ExifTool Version Number         : 12.57
+File Name                       : 40.jpg
+Directory                       : .
+File Size                       : 20 MB
+File Modification Date/Time     : 2023:08:06 03:04:59-04:00
+File Access Date/Time           : 2023:08:06 03:17:51-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Photometric Interpretation      : RGB
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 3
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 23.3 (Macintosh)
+Modify Date                     : 2022:11:27 22:43:22
+Exif Version                    : 0221
+Date/Time Original              : 2022:11:27 22:25:36
+Create Date                     : 2022:11:27 22:25:36
+Offset Time                     : +03:00
+Offset Time Original            : +03:00
+Offset Time Digitized           : +03:00
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time                    : 651
+Sub Sec Time Original           : 651
+Sub Sec Time Digitized          : 651
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 3968
+Exif Image Height               : 5000
+Scene Capture Type              : Standard
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 594
+Thumbnail Length                : 7731
+Current IPTC Digest             : a4ad2bfb965899ed9798ccec4c5147a4
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Time Created                    : 22:25:36
+Digital Creation Date           : 2022:11:27
+IPTC Digest                     : a4ad2bfb965899ed9798ccec4c5147a4
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : GM_FromVoodooCoven_DP copy
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 7731 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2022
+Photoshop Quality               : 12
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 7.1-c000 79.9ccc4de93, 2022/03/14-14:07:22
+Legacy IPTC Digest              : 319181A5FDD874DFD9A58070F1691ABA
+Date Created                    : 2022:11:27 22:25:36
+Color Mode                      : RGB
+ICC Profile Name                : Display
+Metadata Date                   : 2022:11:27 22:43:22+03:00
+Document ID                     : adobe:docid:photoshop:b88d427e-b349-ce4b-b85f-bb057fff372b
+Instance ID                     : xmp.iid:b9792c22-82de-444e-a1a9-044ad43b0678
+Original Document ID            : AAD93DF1E4FF3D7A9F0A408980E3F2F7
+Format                          : image/jpeg
+History Action                  : saved, saved
+History Instance ID             : xmp.iid:1d509601-ce51-4e9a-931e-4501e7dcecc1, xmp.iid:b9792c22-82de-444e-a1a9-044ad43b0678
+History When                    : 2022:11:27 22:42:28+03:00, 2022:11:27 22:43:22+03:00
+History Software Agent          : Adobe Photoshop 23.3 (Macintosh), Adobe Photoshop 23.3 (Macintosh)
+History Changed                 : /, /
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:01 00:22:04
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : 0
+Profile Description             : Display
+Profile Description ML (hr-HR)  : LCD u boji
+Profile Description ML (ko-KR)  : 컬러 LCD
+Profile Description ML (nb-NO)  : Farge-LCD
+Profile Description ML (hu-HU)  : Színes LCD
+Profile Description ML (cs-CZ)  : Barevný LCD
+Profile Description ML (da-DK)  : LCD-farveskærm
+Profile Description ML (nl-NL)  : Kleuren-LCD
+Profile Description ML (fi-FI)  : Väri-LCD
+Profile Description ML (it-IT)  : LCD a colori
+Profile Description ML (es-ES)  : LCD a color
+Profile Description ML (ro-RO)  : LCD color
+Profile Description ML (fr-CA)  : ACL couleur
+Profile Description ML (uk-UA)  : Кольоровий LCD
+Profile Description ML (he-IL)  : ‏LCD צבעוני
+Profile Description ML (zh-TW)  : 彩色LCD
+Profile Description ML (vi-VN)  : LCD Màu
+Profile Description ML (sk-SK)  : Farebný LCD
+Profile Description ML (zh-CN)  : 彩色LCD
+Profile Description ML (ru-RU)  : Цветной ЖК-дисплей
+Profile Description ML (en-GB)  : Colour LCD
+Profile Description ML (fr-FR)  : LCD couleur
+Profile Description ML (hi-IN)  : रंगीन LCD
+Profile Description ML (th-TH)  : LCD สี
+Profile Description ML (ca-ES)  : LCD en color
+Profile Description ML (en-AU)  : Colour LCD
+Profile Description ML (es-XL)  : LCD color
+Profile Description ML (de-DE)  : Farb-LCD
+Profile Description ML          : Color LCD
+Profile Description ML (pt-BR)  : LCD Colorido
+Profile Description ML (pl-PL)  : Kolor LCD
+Profile Description ML (el-GR)  : Έγχρωμη οθόνη LCD
+Profile Description ML (sv-SE)  : Färg-LCD
+Profile Description ML (tr-TR)  : Renkli LCD
+Profile Description ML (pt-PT)  : LCD a Cores
+Profile Description ML (ja-JP)  : カラーLCD
+Profile Copyright               : Copyright Apple Inc., 2022
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Video Card Gamma                : (Binary data 48 bytes, use -b option to extract)
+Native Display Info             : (Binary data 62 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Make And Model                  : (Binary data 40 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 3968
+Image Height                    : 5000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 3968x5000
+Megapixels                      : 19.8
+Create Date                     : 2022:11:27 22:25:36.651+03:00
+Date/Time Original              : 2022:11:27 22:25:36.651+03:00
+Modify Date                     : 2022:11:27 22:43:22.651+03:00
+Thumbnail Image                 : (Binary data 7731 bytes, use -b option to extract)
+Date/Time Created               : 2022:11:27 22:25:36

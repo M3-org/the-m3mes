@@ -1,0 +1,121 @@
+ExifTool Version Number         : 12.57
+File Name                       : 4.jpg
+Directory                       : .
+File Size                       : 1967 kB
+File Modification Date/Time     : 2023:08:06 03:04:28-04:00
+File Access Date/Time           : 2023:08:06 03:26:47-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 2.2.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2009:02:25 11:26:11
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : 0
+Profile Description             : Generic RGB Profile
+Profile Description ML (sk-SK)  : Všeobecný RGB profil
+Profile Description ML (da-DK)  : Generel RGB-profil
+Profile Description ML (ca-ES)  : Perfil RGB genèric
+Profile Description ML (vi-VN)  : Cấu hình RGB Chung
+Profile Description ML (pt-BR)  : Perfil RGB Genérico
+Profile Description ML (uk-UA)  : Загальний профайл RGB
+Profile Description ML (fr-FU)  : Profil générique RVB
+Profile Description ML (hu-HU)  : Általános RGB profil
+Profile Description ML (zh-TW)  : 通用RGB色彩描述
+Profile Description ML (ko-KR)  : 일반 RGB 프로파일
+Profile Description ML (nb-NO)  : Generisk RGB-profil
+Profile Description ML (cs-CZ)  : Obecný RGB profil
+Profile Description ML (he-IL)  : פרופיל RGB כללי
+Profile Description ML (ro-RO)  : Profil RGB generic
+Profile Description ML (de-DE)  : Allgemeines RGB-Profil
+Profile Description ML (it-IT)  : Profilo RGB generico
+Profile Description ML (sv-SE)  : Generisk RGB-profil
+Profile Description ML (zh-CN)  : 普通RGB描述文件
+Profile Description ML (ja-JP)  : 一般 RGB プロファイル
+Profile Description ML (el-GR)  : Γενικό προφίλ RGB
+Profile Description ML (pt-PO)  : Perfil RGB genérico
+Profile Description ML (nl-NL)  : Algemeen RGB-profiel
+Profile Description ML (es-ES)  : Perfil RGB genérico
+Profile Description ML (th-TH)  : โปรไฟล์ RGB ทั่วไป
+Profile Description ML (tr-TR)  : Genel RGB Profili
+Profile Description ML (fi-FI)  : Yleinen RGB-profiili
+Profile Description ML (hr-HR)  : Generički RGB profil
+Profile Description ML (pl-PL)  : Uniwersalny profil RGB
+Profile Description ML (ru-RU)  : Общий профиль RGB
+Profile Description ML          : Generic RGB Profile
+Profile Description ML (ar-EG)  : ملف تعريف RGB العام
+Profile Copyright               : Copyright 2007 Apple Inc., all rights reserved.
+Media White Point               : 0.95047 1 1.0891
+Red Matrix Column               : 0.4543 0.24191 0.01489
+Green Matrix Column             : 0.35335 0.67363 0.09064
+Blue Matrix Column              : 0.15665 0.08446 0.71957
+Red Tone Reproduction Curve     : (Binary data 14 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02957 0.99049 -0.01706 -0.00923 0.01508 0.75165
+Blue Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 14 bytes, use -b option to extract)
+XMP Toolkit                     : Adobe XMP Core 7.1-c000 79.cb7c5a1, 2022/04/14-05:22:35
+Format                          : image/jpeg
+Title                           : 6529 Posters
+Creator Tool                    : Adobe Illustrator 26.3 (Macintosh)
+Create Date                     : 2022:06:29 09:36:57+03:00
+Modify Date                     : 2022:06:29 06:36:57Z
+Metadata Date                   : 2022:06:29 09:36:57+03:00
+Thumbnail Width                 : 256
+Thumbnail Height                : 152
+Thumbnail Format                : JPEG
+Thumbnail Image                 : (Binary data 10934 bytes, use -b option to extract)
+Rendition Class                 : default
+Original Document ID            : uuid:65E6390686CF11DBA6E2D887CEACB407
+Document ID                     : xmp.did:f8eea148-5ff0-4bbe-b487-8b950385bec0
+Instance ID                     : xmp.iid:f8eea148-5ff0-4bbe-b487-8b950385bec0
+Derived From Instance ID        : xmp.iid:0ee42948-8b3c-42e4-a967-43b1c3f5384e
+Derived From Document ID        : xmp.did:8db0c08e-be45-4191-8e81-0a8008b3b2cd
+Derived From Original Document ID: uuid:65E6390686CF11DBA6E2D887CEACB407
+Derived From Rendition Class    : default
+History Action                  : saved, saved
+History Instance ID             : xmp.iid:38c5b0e9-bb2a-4b59-95e2-00e03873121c, xmp.iid:f8eea148-5ff0-4bbe-b487-8b950385bec0
+History When                    : 2022:02:10 13:10:21+02:00, 2022:06:29 09:36:57+03:00
+History Software Agent          : Adobe Illustrator 26.0 (Macintosh), Adobe Illustrator 26.3 (Macintosh)
+History Changed                 : /, /
+Manifest Link Form              : EmbedByReference, EmbedByReference, EmbedByReference, EmbedByReference, EmbedByReference, EmbedByReference, EmbedByReference, EmbedByReference, EmbedByReference, EmbedByReference, EmbedByReference, EmbedByReference, EmbedByReference, EmbedByReference
+Manifest Reference File Path    : /Users/apple/Desktop/6529/6529 Collections/The Memes/punk7121.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk7656.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk6529.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk6531.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk7823.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/metadc549_xl_wwpc097.jpg, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk6529.png, /var/folders/ng/t3ryt5n12cl3c0652zmq95n40000gn/T/TemporaryItems/NSIRD_Illustrator_3pCVuq/AI_26_1/U5NtBO.tif, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk6529.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk6529.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk6529.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/Uncle-Sam-6529.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/Uncle-Sam-6529.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk6529.png
+Manifest Reference Document ID  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, xmp.did:3266977e-cc7e-492c-b65c-ddf652a7e111, xmp.did:3266977e-cc7e-492c-b65c-ddf652a7e111, 0
+Manifest Reference Instance ID  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, xmp.iid:625f747d-2f4e-43fc-bb51-7a42f135ac28, xmp.iid:625f747d-2f4e-43fc-bb51-7a42f135ac28, 0
+Ingredients File Path           : /Users/apple/Desktop/6529/6529 Collections/The Memes/punk7121.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk7656.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk6529.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk6531.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/punk7823.png, /Users/apple/Desktop/6529/6529 Collections/The Memes/metadc549_xl_wwpc097.jpg, /var/folders/ng/t3ryt5n12cl3c0652zmq95n40000gn/T/TemporaryItems/NSIRD_Illustrator_3pCVuq/AI_26_1/U5NtBO.tif, /Users/apple/Desktop/6529/6529 Collections/The Memes/Uncle-Sam-6529.png
+Ingredients Document ID         : 0, 0, 0, 0, 0, 0, xmp.did:3266977e-cc7e-492c-b65c-ddf652a7e111
+Ingredients Instance ID         : 0, 0, 0, 0, 0, 0, xmp.iid:625f747d-2f4e-43fc-bb51-7a42f135ac28
+Startup Profile                 : Web
+Creator Sub Tool                : Adobe Illustrator
+Producer                        : Adobe PDF library 16.07
+Creator Version                 : 21.0.0
+JFIF Version                    : 1.02
+Resolution Unit                 : inches
+X Resolution                    : 216
+Displayed Units X               : inches
+Y Resolution                    : 216
+Displayed Units Y               : inches
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 3241
+Image Height                    : 4744
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 3241x4744
+Megapixels                      : 15.4

@@ -1,0 +1,81 @@
+ExifTool Version Number         : 12.57
+File Name                       : 98.jpg
+Directory                       : .
+File Size                       : 2.1 MB
+File Modification Date/Time     : 2023:08:06 03:06:17-04:00
+File Access Date/Time           : 2023:08:06 03:26:47-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Photometric Interpretation      : RGB
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 3
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop CC 2018 (Windows)
+Modify Date                     : 2023:02:13 11:12:44
+Exif Version                    : 0231
+Color Space                     : Uncalibrated
+Exif Image Width                : 3181
+Exif Image Height               : 4500
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 398
+Thumbnail Length                : 7898
+Current IPTC Digest             : e8f15cf32fc118a1a27b67adc564d5ba
+Application Record Version      : 0
+IPTC Digest                     : e8f15cf32fc118a1a27b67adc564d5ba
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 90
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : a3
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 7898 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop CC 2018
+Photoshop Quality               : 8
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39
+Creator Tool                    : Adobe Photoshop CC 2018 (Windows)
+Create Date                     : 2023:01:12 07:15:14+03:00
+Metadata Date                   : 2023:02:13 11:12:44+03:00
+Format                          : image/jpeg
+Instance ID                     : xmp.iid:e3e7a833-d815-3640-91d2-d70fe2dc3739
+Document ID                     : adobe:docid:photoshop:b69047e2-a738-074e-b331-6881cbd75c0f
+Original Document ID            : xmp.did:d0803fb8-af94-014c-bea0-572ea8f2adee
+Legacy IPTC Digest              : E8F15CF32FC118A1A27B67ADC564D5BA
+Color Mode                      : RGB
+ICC Profile Name                : 
+History Action                  : created, saved, saved, converted, derived, saved, saved
+History Instance ID             : xmp.iid:d0803fb8-af94-014c-bea0-572ea8f2adee, xmp.iid:d1805177-0b93-424e-a463-b642e58ed9f3, xmp.iid:cc4ff9df-1549-b947-acf4-05515f836497, xmp.iid:f491f521-08cd-aa49-a2f7-b7b78ada5034, xmp.iid:e3e7a833-d815-3640-91d2-d70fe2dc3739
+History When                    : 2023:01:12 07:15:14+03:00, 2023:01:12 07:48:57+03:00, 2023:02:13 11:08:52+03:00, 2023:02:13 11:08:52+03:00, 2023:02:13 11:12:44+03:00
+History Software Agent          : Adobe Photoshop CC 2018 (Windows), Adobe Photoshop CC 2018 (Windows), Adobe Photoshop CC 2018 (Windows), Adobe Photoshop CC 2018 (Windows), Adobe Photoshop CC 2018 (Windows)
+History Changed                 : /, /, /, /
+History Parameters              : from application/vnd.adobe.photoshop to image/jpeg, converted from application/vnd.adobe.photoshop to image/jpeg
+Derived From Instance ID        : xmp.iid:cc4ff9df-1549-b947-acf4-05515f836497
+Derived From Document ID        : adobe:docid:photoshop:a78cbf5a-7529-6f4d-873e-855c7b360b35
+Derived From Original Document ID: xmp.did:d0803fb8-af94-014c-bea0-572ea8f2adee
+Document Ancestors              : 1E1A64058958675D1628022F0CFABEB8, adobe:docid:photoshop:0fa1308c-3825-9d41-ba6e-cf37e2295e21, adobe:docid:photoshop:478cb8f3-2c15-5243-993b-cf3ec564e851, adobe:docid:photoshop:85fb1ac3-393e-c94a-a854-e1e089633a4f, adobe:docid:photoshop:8abd5a79-421a-4943-8fe6-71b4efd01241, xmp.did:d0803fb8-af94-014c-bea0-572ea8f2adee
+DCT Encode Version              : 100
+APP14 Flags 0                   : (none)
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 3181
+Image Height                    : 4500
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 3181x4500
+Megapixels                      : 14.3
+Thumbnail Image                 : (Binary data 7898 bytes, use -b option to extract)

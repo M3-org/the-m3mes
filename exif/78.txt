@@ -1,0 +1,55 @@
+ExifTool Version Number         : 12.57
+File Name                       : 78.png
+Directory                       : .
+File Size                       : 1893 kB
+File Modification Date/Time     : 2023:08:06 03:05:41-04:00
+File Access Date/Time           : 2023:08:06 03:18:35-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1080
+Image Height                    : 1920
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : ICC Profile
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2005:04:01 01:01:01
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : 0
+Profile Description             : HDTV
+Profile Copyright               : Copyright 2007 Apple Inc.
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 14 bytes, use -b option to extract)
+Video Card Gamma                : (Binary data 48 bytes, use -b option to extract)
+Native Display Info             : (Binary data 62 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 14 bytes, use -b option to extract)
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Photometric Interpretation      : RGB
+Orientation                     : Horizontal (normal)
+Resolution Unit                 : inches
+Exif Image Width                : 1080
+Exif Image Height               : 1920
+XMP Toolkit                     : XMP Core 6.0.0
+Image Size                      : 1080x1920
+Megapixels                      : 2.1

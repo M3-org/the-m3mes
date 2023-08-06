@@ -1,0 +1,95 @@
+ExifTool Version Number         : 12.57
+File Name                       : 57.jpg
+Directory                       : .
+File Size                       : 3.3 MB
+File Modification Date/Time     : 2023:08:06 03:05:15-04:00
+File Access Date/Time           : 2023:08:06 03:18:09-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+XMP Toolkit                     : Adobe XMP Core 9.0-c000 79.f845eb1, 2022/11/03-19:28:45
+Format                          : image/jpeg
+Title                           : Copepe
+Metadata Date                   : 2023:01:08 17:43:32+02:00
+Modify Date                     : 2023:01:08 15:43:32Z
+Create Date                     : 2023:01:08 17:43:32+02:00
+Creator Tool                    : Adobe Illustrator 27.1 (Macintosh)
+Thumbnail Width                 : 168
+Thumbnail Height                : 256
+Thumbnail Format                : JPEG
+Thumbnail Image                 : (Binary data 17349 bytes, use -b option to extract)
+Instance ID                     : xmp.iid:b99e93c0-c42e-448f-bf2a-909aeb26c2d0
+Document ID                     : xmp.did:b99e93c0-c42e-448f-bf2a-909aeb26c2d0
+Original Document ID            : uuid:5D20892493BFDB11914A8590D31508C8
+Rendition Class                 : default
+Derived From Instance ID        : uuid:078d274b-eba4-584b-8532-000fbf144a00
+Derived From Document ID        : xmp.did:9022e8f0-4c6c-4abf-b6ff-ab3e8464d307
+Derived From Original Document ID: uuid:5D20892493BFDB11914A8590D31508C8
+Derived From Rendition Class    : default
+History Action                  : saved, saved
+History Instance ID             : xmp.iid:8ab32c91-dfe2-4010-ba29-d8c4c26fd6cc, xmp.iid:b99e93c0-c42e-448f-bf2a-909aeb26c2d0
+History When                    : 2022:10:25 12:58:32+03:00, 2023:01:08 17:43:32+02:00
+History Software Agent          : Adobe Illustrator 27.0 (Macintosh), Adobe Illustrator 27.1 (Macintosh)
+History Changed                 : /, /
+Startup Profile                 : Print
+Creator Sub Tool                : Adobe Illustrator
+Producer                        : Adobe PDF library 17.00
+JFIF Version                    : 1.02
+Resolution Unit                 : inches
+X Resolution                    : 144
+Displayed Units X               : inches
+Y Resolution                    : 144
+Displayed Units Y               : inches
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 6482
+Image Height                    : 9751
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 6482x9751
+Megapixels                      : 63.2

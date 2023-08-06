@@ -1,0 +1,321 @@
+ExifTool Version Number         : 12.57
+File Name                       : 51.jpg
+Directory                       : .
+File Size                       : 10 MB
+File Modification Date/Time     : 2023:08:06 03:05:10-04:00
+File Access Date/Time           : 2023:08:06 03:18:05-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Compression                     : Adobe Deflate
+Photometric Interpretation      : RGB
+Make                            : SONY
+Camera Model Name               : ILCE-7RM2
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 3
+X Resolution                    : 300
+Y Resolution                    : 300
+Planar Configuration            : Chunky
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 24.0 (Macintosh)
+Modify Date                     : 2022:12:11 11:54:03
+Artist                          : xose casal
+Copyright                       : xose casal
+Exposure Time                   : 61
+F Number                        : 8.0
+Exposure Program                : Manual
+ISO                             : 100
+Sensitivity Type                : Recommended Exposure Index
+Recommended Exposure Index      : 100
+Exif Version                    : 0230
+Date/Time Original              : 2022:12:08 10:33:16
+Create Date                     : 2022:12:08 10:33:16
+Shutter Speed Value             : 61
+Aperture Value                  : 8.0
+Brightness Value                : -5.0140625
+Exposure Compensation           : 0
+Max Aperture Value              : 4.0
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 20.0 mm
+Color Space                     : Uncalibrated
+Exif Image Width                : 7463
+Exif Image Height               : 4978
+Focal Plane X Resolution        : 2164.4328
+Focal Plane Y Resolution        : 2164.4328
+Focal Plane Resolution Unit     : cm
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Manual
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 20 mm
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Lens Info                       : 16-35mm f/4
+Lens Model                      : FE 16-35mm F4 ZA OSS
+Thumbnail Offset                : 1082
+Thumbnail Length                : 2329
+Current IPTC Digest             : 2d117a3bea750f0c4d2f0a67e3b1258a
+Coded Character Set             : UTF8
+Application Record Version      : 0
+By-line                         : xose casal
+Time Created                    : 10:33:16
+Copyright Notice                : xose casal
+IPTC Digest                     : 2d117a3bea750f0c4d2f0a67e3b1258a
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : gm2
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 2329 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2023
+Photoshop Quality               : 12
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 9.0-c000 79.171c27fab, 2022/08/16-22:35:41
+Format                          : image/jpeg
+Creator Tool                    : ILCE-7RM2 v4.01
+Rating                          : 0
+Label                           : 
+Metadata Date                   : 2022:12:11 11:54:03+01:00
+Lens                            : FE 16-35mm F4 ZA OSS
+Lens Distort Info               : 33045/32768 -61725456/1073741824 75038023/1073741824 -22419192/1073741824
+Distortion Correction Already Applied: True
+Lateral Chromatic Aberration Correction Already Applied: True
+Vignette Correction Already Applied: True
+Date Created                    : 2022:12:08 10:33:16
+Legacy IPTC Digest              : FAE8428B16A4A87E464CD2ED5F7F1320
+Color Mode                      : RGB
+ICC Profile Name                : Adobe RGB (1998)
+Document ID                     : adobe:docid:photoshop:9b95360f-a241-6b4e-8bd1-30210cdd2b5e
+Preserved File Name             : DSC04177.ARW
+Original Document ID            : 5745C5FD24E4B0DA2A58D745FC1F72C4
+Instance ID                     : xmp.iid:0d2befed-4108-48be-89d5-869796fb7617
+Version                         : 15.0
+Process Version                 : 11.0
+Color Temperature               : 6934
+Tint                            : +16
+Exposure 2012                   : +2.50
+Contrast 2012                   : +49
+Highlights 2012                 : -26
+Shadows 2012                    : +14
+Whites 2012                     : 0
+Blacks 2012                     : 0
+Texture                         : 0
+Clarity 2012                    : 0
+Dehaze                          : 0
+Vibrance                        : +30
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.2
+Sharpen Detail                  : 40
+Sharpen Edge Masking            : 25
+Luminance Smoothing             : 0
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : -18
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : +58
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : +23
+Saturation Adjustment Orange    : +22
+Saturation Adjustment Yellow    : +32
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : -39
+Saturation Adjustment Blue      : -15
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : +24
+Luminance Adjustment Orange     : +21
+Luminance Adjustment Yellow     : +30
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : +15
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Grade Midtone Lum         : 0
+Color Grade Highlight Lum       : 0
+Color Grade Blending            : 50
+Color Grade Global Hue          : 0
+Color Grade Global Sat          : 0
+Color Grade Global Lum          : 0
+Auto Lateral CA                 : 1
+Lens Profile Enable             : 1
+Lens Manual Distortion Amount   : 0
+Vignette Amount                 : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Aspect              : 0
+Perspective Scale               : 100
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Grain Amount                    : 0
+Post Crop Vignette Amount       : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Override Look Vignette          : False
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : D360A2DBD2CA77BB5DA0C19FEDBEE62D
+Lens Profile Setup              : LensDefaults
+Lens Profile Name               : Adobe (Sony FE 16-35mm F4 ZA OSS)
+Lens Profile Filename           : SONY (Sony FE 16-35mm F4 ZA OSS) - RAW.lcp
+Lens Profile Digest             : 3B4F299439C8F655626DE0DE2B007073
+Lens Profile Is Embedded        : False
+Lens Profile Distortion Scale   : 100
+Lens Profile Vignetting Scale   : 100
+Has Settings                    : True
+Crop Top                        : 0.053424
+Crop Left                       : 0.021013
+Crop Bottom                     : 0.946576
+Crop Right                      : 0.978987
+Crop Angle                      : -1.82712
+Crop Constrain To Warp          : 0
+Has Crop                        : True
+Already Applied                 : True
+Creator                         : xose casal
+Rights                          : xose casal
+Document Ancestors              : adobe:docid:photoshop:6bd8cea7-86b4-974c-b33b-33408abb484d, adobe:docid:photoshop:7b7e0eee-3993-9543-ab53-faff4f6b3dae, adobe:docid:photoshop:d2e910b9-452b-b342-b24a-137f7dc43a18, xmp.did:26dbe855-49b8-4fbf-b0be-6435c8d771f8, xmp.did:4583eabf-3996-4a76-a4c2-a2d651abbcc1, xmp.did:75e1a198-503c-4ddc-b04e-19aab8228014, xmp.did:c9077186-4a50-4acf-99d0-68de9d79db63, xmp.did:cfd4ad19-a118-49bc-a304-0833c4eeb077, xmp.did:daaf6234-d44e-4b2e-8d19-f6561b271a0e
+History Action                  : derived, saved, saved, converted, derived, saved
+History Parameters              : converted from image/x-sony-arw to image/tiff, from image/tiff to image/jpeg, converted from image/tiff to image/jpeg
+History Instance ID             : xmp.iid:e979ed7f-79d1-4ecd-8d7a-df910a01075a, xmp.iid:8b3dbc41-c2cc-4360-9c1b-032bd513f1e4, xmp.iid:0d2befed-4108-48be-89d5-869796fb7617
+History When                    : 2022:12:09 15:27:39+01:00, 2022:12:11 11:54:03+01:00, 2022:12:11 11:54:03+01:00
+History Software Agent          : Adobe Photoshop Camera Raw 15.0 (Macintosh), Adobe Photoshop 24.0 (Macintosh), Adobe Photoshop 24.0 (Macintosh)
+History Changed                 : /, /, /
+Derived From Instance ID        : xmp.iid:8b3dbc41-c2cc-4360-9c1b-032bd513f1e4
+Derived From Document ID        : adobe:docid:photoshop:7b7e0eee-3993-9543-ab53-faff4f6b3dae
+Derived From Original Document ID: 5745C5FD24E4B0DA2A58D745FC1F72C4
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Retouch Area Heal Version       : 2
+Retouch Area Spot Type          : heal
+Retouch Area Source State       : sourceAutoComputed
+Retouch Area Method             : gaussian
+Retouch Area Source X           : 0.594633
+Retouch Area Offset Y           : 0.508594
+Retouch Area Opacity            : 1
+Retouch Area Feather            : 0
+Retouch Area Seed               : 2
+Retouch Area Mask What          : Mask/Paint
+Retouch Area Mask Mask Active   : true
+Retouch Area Mask Mask Blend Mode: 0
+Retouch Area Mask Mask Inverted : false
+Retouch Area Mask Mask Sync ID  : 6079A72F4B4F4A16826E8E8C2206BD72
+Retouch Area Mask Value         : 1
+Retouch Area Mask Radius        : 0.006696
+Retouch Area Mask Flow          : 1
+Retouch Area Mask Center Weight : 0.5
+Retouch Area Mask Dabs          : d 0.627447 0.521413
+Look Name                       : Adobe Color
+Look Amount                     : 1
+Look UUID                       : B952C231111CD8E0ECCF14B86BAA7077
+Look Supports Amount            : false
+Look Supports Monochrome        : false
+Look Supports Output Referred   : false
+Look Group                      : Profiles
+Look Parameters Version         : 15.0
+Look Parameters Process Version : 11.0
+Look Parameters Convert To Grayscale: False
+Look Parameters Camera Profile  : Adobe Standard
+Look Parameters Look Table      : E1095149FDB39D7A057BAB208837E2E1
+Look Parameters Tone Curve PV2012: 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+Look Parameters Tone Curve PV2012 Red: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Green: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Blue: 0, 0, 255, 255
+Profile CMM Type                : Adobe Systems Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1999:06:03 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : none
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Adobe Systems Inc.
+Profile ID                      : 0
+Profile Copyright               : Copyright 1999 Adobe Systems Incorporated
+Profile Description             : Adobe RGB (1998)
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Tone Reproduction Curve     : (Binary data 14 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 14 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+Red Matrix Column               : 0.60974 0.31111 0.01947
+Green Matrix Column             : 0.20528 0.62567 0.06087
+Blue Matrix Column              : 0.14919 0.06322 0.74457
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 7463
+Image Height                    : 4978
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 8.0
+Image Size                      : 7463x4978
+Megapixels                      : 37.2
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 61
+Thumbnail Image                 : (Binary data 2329 bytes, use -b option to extract)
+Date/Time Created               : 2022:12:08 10:33:16
+Circle Of Confusion             : 0.030 mm
+Field Of View                   : 84.0 deg
+Focal Length                    : 20.0 mm (35 mm equivalent: 20.0 mm)
+Hyperfocal Distance             : 1.66 m
+Light Value                     : 0.1
+Lens ID                         : FE 16-35mm F4 ZA OSS

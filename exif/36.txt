@@ -1,0 +1,23 @@
+ExifTool Version Number         : 12.57
+File Name                       : 36.jpg
+Directory                       : .
+File Size                       : 304 kB
+File Modification Date/Time     : 2023:08:06 03:04:54-04:00
+File Access Date/Time           : 2023:08:06 03:17:48-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1312
+Image Height                    : 1312
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1312x1312
+Megapixels                      : 1.7

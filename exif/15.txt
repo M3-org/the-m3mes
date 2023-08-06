@@ -1,0 +1,54 @@
+ExifTool Version Number         : 12.57
+File Name                       : 15.jpg
+Directory                       : .
+File Size                       : 4.4 MB
+File Modification Date/Time     : 2023:08:06 03:04:37-04:00
+File Access Date/Time           : 2023:08:06 03:30:54-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Photometric Interpretation      : RGB
+X Resolution                    : 600
+Y Resolution                    : 600
+Resolution Unit                 : inches
+Modify Date                     : 2022:09:04 17:28:15
+Exif Version                    : 0221
+Date/Time Original              : 2022:09:04 17:28:15
+Create Date                     : 2022:09:04 17:28:15
+Offset Time                     : -04:00
+Offset Time Original            : -04:00
+Offset Time Digitized           : -04:00
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time                    : 075
+Sub Sec Time Original           : 075
+Sub Sec Time Digitized          : 075
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 4000
+Exif Image Height               : 4000
+Scene Capture Type              : Standard
+Current IPTC Digest             : 1d5152300bb9731c9ec1f17a38471aad
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 17:28:15
+Digital Creation Date           : 2022:09:04
+Date Created                    : 2022:09:04
+Time Created                    : 17:28:15
+IPTC Digest                     : 1d5152300bb9731c9ec1f17a38471aad
+Image Width                     : 4000
+Image Height                    : 4000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 4000x4000
+Megapixels                      : 16.0
+Create Date                     : 2022:09:04 17:28:15.075-04:00
+Date/Time Original              : 2022:09:04 17:28:15.075-04:00
+Modify Date                     : 2022:09:04 17:28:15.075-04:00
+Date/Time Created               : 2022:09:04 17:28:15
+Digital Creation Date/Time      : 2022:09:04 17:28:15

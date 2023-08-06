@@ -1,0 +1,329 @@
+ExifTool Version Number         : 12.57
+File Name                       : 64.jpg
+Directory                       : .
+File Size                       : 21 MB
+File Modification Date/Time     : 2023:08:06 03:05:22-04:00
+File Access Date/Time           : 2023:08:06 03:18:19-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : NIKON CORPORATION
+Camera Model Name               : NIKON Z 7
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop Lightroom Classic 12.1 (Macintosh)
+Modify Date                     : 2023:01:18 08:58:41
+Exposure Time                   : 1/320
+F Number                        : 11.0
+Exposure Program                : Manual
+ISO                             : 64
+Sensitivity Type                : Recommended Exposure Index
+Recommended Exposure Index      : 64
+Exif Version                    : 0231
+Date/Time Original              : 2018:04:14 09:14:37
+Create Date                     : 2018:04:14 09:14:37
+Offset Time                     : -05:00
+Offset Time Original            : -04:00
+Offset Time Digitized           : -04:00
+Shutter Speed Value             : 1/320
+Aperture Value                  : 11.0
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : No Flash
+Focal Length                    : 46.0 mm
+Sub Sec Time Original           : 45
+Sub Sec Time Digitized          : 45
+Color Space                     : sRGB
+Focal Plane X Resolution        : 2301.324615
+Focal Plane Y Resolution        : 2301.324615
+Focal Plane Resolution Unit     : cm
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Custom
+Exposure Mode                   : Manual
+White Balance                   : Auto
+Focal Length In 35mm Format     : 46 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+Serial Number                   : 3014191
+Lens Info                       : 24-70mm f/2.8
+Lens Model                      : 24.0-70.0 mm f/2.8
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 1018
+Thumbnail Length                : 11452
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Current IPTC Digest             : c59a1aaac2f12a72461cecf6c2aaccc5
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Time Created                    : 09:14:37
+Digital Creation Date           : 2018:04:14
+Digital Creation Time           : 09:14:37-04:00
+Photoshop Thumbnail             : (Binary data 11452 bytes, use -b option to extract)
+IPTC Digest                     : c59a1aaac2f12a72461cecf6c2aaccc5
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+XMP Toolkit                     : Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00
+Creator Tool                    : Adobe Photoshop Lightroom Classic 12.1 (Macintosh)
+Metadata Date                   : 2023:01:18 08:58:41-05:00
+Lens                            : 24.0-70.0 mm f/2.8
+Image Number                    : 3388
+Approximate Focus Distance      : 4294967295
+Distortion Correction Already Applied: True
+Lateral Chromatic Aberration Correction Already Applied: True
+Vignette Correction Already Applied: True
+Date Created                    : 2018:04:14 09:14:37.045
+Document ID                     : xmp.did:c177d384-e031-40f4-abef-f4f9bfc1801a
+Original Document ID            : 9BDC055830DA8ADBB57AF56FFA39632A
+Instance ID                     : xmp.iid:c177d384-e031-40f4-abef-f4f9bfc1801a
+Preserved File Name             : Protect Your Empire.tif
+Format                          : image/jpeg
+Sub Sec Time                    : 45
+Raw File Name                   : Protect Your Empire-3.tif
+Version                         : 15.1
+Compatible Version              : 234881024
+Process Version                 : 11.0
+Incremental Temperature         : +1
+Incremental Tint                : +4
+Exposure 2012                   : 0.00
+Contrast 2012                   : +4
+Highlights 2012                 : -13
+Shadows 2012                    : 0
+Whites 2012                     : +39
+Blacks 2012                     : 0
+Texture                         : 0
+Clarity 2012                    : 0
+Dehaze                          : 0
+Vibrance                        : -16
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +2.6
+Sharpen Detail                  : 88
+Sharpen Edge Masking            : 0
+Luminance Smoothing             : 0
+Color Noise Reduction           : 0
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : +16
+Saturation Adjustment Yellow    : +23
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : +15
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : +15
+Luminance Adjustment Yellow     : +4
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 275
+Split Toning Shadow Saturation  : 16
+Split Toning Highlight Hue      : 73
+Split Toning Highlight Saturation: 21
+Split Toning Balance            : 0
+Color Grade Midtone Hue         : 76
+Color Grade Midtone Sat         : 20
+Color Grade Shadow Lum          : 0
+Color Grade Midtone Lum         : 0
+Color Grade Highlight Lum       : 0
+Color Grade Blending            : 50
+Color Grade Global Hue          : 0
+Color Grade Global Sat          : 0
+Color Grade Global Lum          : 0
+Auto Lateral CA                 : 0
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Vignette Amount                 : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Aspect              : 0
+Perspective Scale               : 100
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Grain Amount                    : 0
+Post Crop Vignette Amount       : -18
+Post Crop Vignette Midpoint     : 44
+Post Crop Vignette Feather      : 88
+Post Crop Vignette Roundness    : +73
+Post Crop Vignette Style        : Highlight Priority
+Post Crop Vignette Highlight Contrast: 100
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : +79
+Green Saturation                : 0
+Blue Hue                        : -6
+Blue Saturation                 : +89
+Convert To Grayscale            : False
+Override Look Vignette          : False
+Tone Curve Name 2012            : Snow Curve
+Camera Profile                  : Embedded
+Camera Profile Digest           : 54650A341B5B5CCAE8442D0B43A92BCE
+Has Settings                    : True
+Crop Top                        : 0.105848
+Crop Left                       : 0
+Crop Bottom                     : 1
+Crop Right                      : 0.894152
+Crop Angle                      : 0
+Crop Constrain To Warp          : 0
+Has Crop                        : True
+Already Applied                 : True
+Text Layer Name                 : Not your keys Not your coins
+Text Layer Text                 : Not your keys Not your coins
+Document Ancestors              : xmp.did:39916938-0327-4458-95fb-413d6e0e5f5b
+History Action                  : derived, saved, saved, converted, derived, saved, saved, converted, derived, saved, saved, converted, derived, saved, saved, derived, saved, derived, saved
+History Parameters              : converted from image/x-nikon-nef to image/tiff, from image/tiff to application/vnd.adobe.photoshop, converted from image/tiff to application/vnd.adobe.photoshop, from application/vnd.adobe.photoshop to image/tiff, converted from application/vnd.adobe.photoshop to image/tiff, from image/tiff to application/vnd.adobe.photoshop, converted from image/tiff to application/vnd.adobe.photoshop, converted from application/vnd.adobe.photoshop to image/tiff, converted from image/tiff to image/jpeg, saved to new location
+History Instance ID             : xmp.iid:2bfa1e53-9a8c-4e4b-8606-18306f40722c, xmp.iid:96b2f5c9-73ea-4bff-a8fb-1b75889430dc, xmp.iid:c3fa4adb-3177-4da7-8cab-d23a49d0c0de, xmp.iid:206e4b24-4c8f-43cf-84d5-d1b234d3f45a, xmp.iid:f9515876-5258-4056-a263-831769b36097, xmp.iid:be5f74b6-3580-439b-866f-09de234a5b72, xmp.iid:3a59d288-7167-4415-a977-806dc1e082ef, xmp.iid:213e1ff4-8329-4c05-ab7a-e079064b7690, xmp.iid:4e1d0e4e-f3b3-414d-b6ed-b833745bcfd9, xmp.iid:c177d384-e031-40f4-abef-f4f9bfc1801a
+History When                    : 2023:01:17 12:30:04-05:00, 2023:01:17 16:55:43-05:00, 2023:01:17 16:55:43-05:00, 2023:01:17 19:21:31-05:00, 2023:01:17 19:21:31-05:00, 2023:01:17 22:03:40-05:00, 2023:01:17 22:03:40-05:00, 2023:01:17 23:01:50-05:00, 2023:01:18 08:49:16-05:00, 2023:01:18 08:58:41-05:00
+History Software Agent          : Adobe Photoshop Camera Raw 15.1.1 (Macintosh), Adobe Photoshop 23.5 (Macintosh), Adobe Photoshop 23.5 (Macintosh), Adobe Photoshop 23.5 (Macintosh), Adobe Photoshop 23.5 (Macintosh), Adobe Photoshop 23.5 (Macintosh), Adobe Photoshop 23.5 (Macintosh), Adobe Photoshop 23.5 (Macintosh), Adobe Photoshop 23.5 (Macintosh), Adobe Photoshop Lightroom Classic 12.1 (Macintosh)
+History Changed                 : /, /, /, /, /, /, /, /, /, /
+Derived From Instance ID        : xmp.iid:4e1d0e4e-f3b3-414d-b6ed-b833745bcfd9
+Derived From Document ID        : adobe:docid:photoshop:8993d9d7-450f-cb4b-950a-0e5877651924
+Derived From Original Document ID: 9BDC055830DA8ADBB57AF56FFA39632A
+Tone Curve PV2012               : 0, 7, 50, 45, 130, 130, 191, 200, 252, 237
+Tone Curve PV2012 Red           : 0, 0, 58, 52, 129, 129, 182, 195, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 71, 67, 130, 130, 190, 197, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 49, 45, 126, 126, 194, 197, 255, 255
+Mask Group Based Corr What      : Correction
+Mask Group Based Corr Amount    : 1
+Mask Group Based Corr Active    : true
+Mask Group Based Corr Correction Name: Mask 1
+Mask Group Based Corr Correction Sync ID: 6988F351EBD143B986CB07E9FDF070E8
+Mask Group Based Corr Exposure  : 0
+Mask Group Based Corr Hue       : 0
+Mask Group Based Corr Saturation: 0
+Mask Group Based Corr Contrast  : 0
+Mask Group Based Corr Clarity   : 0
+Mask Group Based Corr Sharpness : 0
+Mask Group Based Corr Brightness: 0
+Mask Group Based Corr Toning Hue: 240
+Mask Group Based Corr Toning Saturation: 0
+Mask Group Based Corr Exposure 2012: 0
+Mask Group Based Corr Contrast 2012: 0
+Mask Group Based Corr Highlights 2012: 0
+Mask Group Based Corr Shadows 2012: 0
+Mask Group Based Corr Whites 2012: 1
+Mask Group Based Corr Blacks 2012: 0
+Mask Group Based Corr Clarity 2012: 0
+Mask Group Based Corr Dehaze    : 0
+Mask Group Based Corr Luminance Noise: 0
+Mask Group Based Corr Moire     : 0
+Mask Group Based Corr Defringe  : 0
+Mask Group Based Corr Temperature: 0
+Mask Group Based Corr Tint      : 0
+Mask Group Based Corr Texture   : 0
+Mask Group Based Corr Mask What : Mask/Aggregate
+Mask Group Based Corr Mask Mask Active: true
+Mask Group Based Corr Mask Mask Name: Brush 1
+Mask Group Based Corr Mask Mask Blend Mode: 0
+Mask Group Based Corr Mask Mask Inverted: false
+Mask Group Based Corr Mask Mask Sync ID: 921592CC31B046789483BD0C397AC5B2
+Mask Group Based Corr Mask Value: 1
+Mask Group Based Corr Mask Masks Dabs: M 0.026991 0.501646, M 0.044493 0.501641, M 0.061962 0.501063, M 0.079368 0.499901, M 0.096871 0.499901, M 0.114373 0.499901, M 0.131875 0.499901, M 0.757347 0.528966, M 0.773173 0.524015, M 0.789916 0.520731, M 0.807378 0.520186, M 0.824880 0.520186, M 0.842374 0.520363, M 0.859721 0.521878, M 0.877115 0.523132, M 0.894596 0.523654, M 0.912064 0.524350, M 0.929506 0.525217, M 0.947009 0.525217, M 0.964511 0.525217, M 0.982012 0.525198, M 0.999460 0.524378, M 0.718832 0.525489, M 0.701555 0.525701, M 0.684053 0.525701, M 0.666967 0.527513, M 0.651293 0.532307, M 0.655164 0.529760, M 0.672665 0.529816, M 0.689990 0.531389, M 0.707108 0.533815, M 0.724289 0.536018, M 0.741747 0.536656, M 0.759249 0.536656, M 0.776740 0.536315, M 0.794210 0.535622, M 0.811654 0.534717, M 0.829031 0.533330, M 0.846468 0.532344, M 0.863963 0.532109, M 0.881404 0.532496, M 0.896686 0.538017, M 0.909807 0.545729, M 0.913495 0.551652, M 0.896325 0.549787, M 0.879400 0.546818, M 0.862495 0.543799, M 0.845267 0.542178, M 0.842068 0.543268, M 0.858266 0.547676, M 0.874420 0.551862, M 0.891921 0.551947, M 0.909424 0.551947, M 0.926926 0.551947, M 0.944402 0.552192, M 0.961063 0.554441, M 0.977094 0.559078, M 0.994550 0.559361, M 1.011499 0.556891, M 1.014794 0.553896, M 0.997409 0.552547, M 0.980058 0.551020, M 0.962641 0.549926, M 0.945831 0.547230, M 0.127009 0.497720, M 0.109507 0.497720, M 0.092127 0.498986, M 0.074680 0.499904, M 0.057233 0.500665, M 0.039736 0.500584, M 0.022550 0.498476, M 0.005367 0.496359, M -0.012040 0.495238, M 0.076545 0.501772, M 0.069932 0.501772, M 0.063319 0.501772, M 0.056722 0.502053, M 0.050130 0.502402, M 0.043571 0.502955, M 0.037020 0.503557, M 0.030521 0.504371, M 0.024072 0.505343, M 0.017649 0.506390, M 0.011226 0.507441, M 0.004807 0.508502, M -0.001762 0.508886, M 0.000624 0.508335, M 0.007233 0.508169, M 0.013843 0.508055, M 0.020456 0.508055, M 0.027067 0.508105, M 0.033670 0.508353, M 0.040273 0.508594, M 0.046882 0.508739, M 0.053492 0.508859, M 0.060106 0.508859, M 0.066719 0.508859, M 0.073330 0.508817, M 0.079935 0.508601, M 0.086478 0.508072, M 0.092936 0.507123, M 0.099403 0.506201, M 0.105875 0.505297, M 0.112339 0.504374, M 0.118754 0.503385, M 0.125238 0.502563, M 0.131478 0.501253, M 0.135078 0.497600, M 0.139201 0.494526, M 0.144642 0.492021, M 0.149847 0.489302, M 0.155167 0.486687, M 0.161533 0.486202, M 0.167790 0.487468, M 0.254356 0.484382, M 0.260969 0.484382, M 0.267582 0.484382, M 0.274189 0.484282, M 0.271188 0.485674, M 0.264654 0.486345, M 0.258113 0.486995, M 0.251576 0.487664, M 0.245040 0.488335, M 0.238504 0.489005, M 0.231968 0.489675, M 0.225430 0.490339, M 0.218891 0.491000, M 0.212353 0.491661, M 0.205815 0.492322, M 0.199290 0.493041, M 0.192769 0.493772, M 0.186247 0.494504, M 0.179689 0.495061, M 0.173117 0.495553, M 0.166558 0.496107, M 0.160031 0.496816, M 0.153459 0.497266, M 0.146855 0.497447, M 0.140242 0.497447, M 0.133629 0.497447, M 0.127019 0.497325, M 0.120409 0.497182, M 0.113805 0.496965, M 0.107218 0.496580, M 0.100709 0.495822, M 0.094245 0.494907, M 0.087675 0.494403, M 0.081093 0.493975, M 0.074517 0.493514, M 0.067942 0.493040, M 0.061339 0.492805, M 0.054742 0.492559, M 0.048129 0.492559, M 0.041515 0.492559, M 0.034937 0.492274
+Mask Group Based Corr Mask Masks What: Mask/Paint
+Mask Group Based Corr Mask Masks Mask Active: true
+Mask Group Based Corr Mask Masks Mask Blend Mode: 0
+Mask Group Based Corr Mask Masks Mask Inverted: false
+Mask Group Based Corr Mask Masks Mask Sync ID: E76C5882A956469BBBB62CC8947C0D9E
+Mask Group Based Corr Mask Masks Value: 0.51301
+Mask Group Based Corr Mask Masks Radius: 0.014696
+Mask Group Based Corr Mask Masks Flow: 0.547084
+Mask Group Based Corr Mask Masks Center Weight: 0.272459
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 4895
+Image Height                    : 7342
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 11.0
+Image Size                      : 4895x7342
+Megapixels                      : 35.9
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/320
+Create Date                     : 2018:04:14 09:14:37.45-04:00
+Date/Time Original              : 2018:04:14 09:14:37.45-04:00
+Modify Date                     : 2023:01:18 08:58:41.45-05:00
+Thumbnail Image                 : (Binary data 11452 bytes, use -b option to extract)
+Date/Time Created               : 2018:04:14 09:14:37
+Digital Creation Date/Time      : 2018:04:14 09:14:37-04:00
+Circle Of Confusion             : 0.030 mm
+Depth Of Field                  : inf (6.40 m - inf)
+Field Of View                   : 42.7 deg
+Focal Length                    : 46.0 mm (35 mm equivalent: 46.0 mm)
+Hyperfocal Distance             : 6.40 m
+Light Value                     : 15.9
+Lens ID                         : AF-S Nikkor 24-70mm f/2.8E ED VR

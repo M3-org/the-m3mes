@@ -1,0 +1,293 @@
+ExifTool Version Number         : 12.57
+File Name                       : 84.jpg
+Directory                       : .
+File Size                       : 21 MB
+File Modification Date/Time     : 2023:08:06 03:05:50-04:00
+File Access Date/Time           : 2023:08:06 03:18:41-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : NIKON CORPORATION
+Camera Model Name               : NIKON D750
+Orientation                     : Horizontal (normal)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 24.1 (Macintosh)
+Modify Date                     : 2023:01:25 00:28:00
+Exposure Time                   : 1/200
+F Number                        : 7.1
+Exposure Program                : Program AE
+ISO                             : 320
+Sensitivity Type                : Recommended Exposure Index
+Exif Version                    : 0231
+Date/Time Original              : 2023:01:24 23:30:47
+Create Date                     : 2023:01:24 23:30:47
+Shutter Speed Value             : 1/200
+Aperture Value                  : 7.1
+Exposure Compensation           : 0
+Max Aperture Value              : 1.7
+Metering Mode                   : Other
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 50.0 mm
+Sub Sec Time                    : 11
+Sub Sec Time Original           : 11
+Sub Sec Time Digitized          : 11
+Color Space                     : Uncalibrated
+Exif Image Width                : 3806
+Exif Image Height               : 5701
+Focal Plane X Resolution        : 1675.014984
+Focal Plane Y Resolution        : 1675.014984
+Focal Plane Resolution Unit     : cm
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+CFA Pattern                     : [Red,Green][Green,Blue]
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 50 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+Serial Number                   : 3190827
+Lens Info                       : 50mm f/1.8
+Lens Model                      : 50.0 mm f/1.8
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 1030
+Thumbnail Length                : 10215
+Current IPTC Digest             : 2030c8a81f45afb6015479161e535350
+Coded Character Set             : UTF8
+Application Record Version      : 0
+Time Created                    : 23:30:47
+IPTC Digest                     : 2030c8a81f45afb6015479161e535350
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : 6779-Voices-2023
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 10215 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2023
+Photoshop Quality               : 12
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 9.0-c000 79.171c27fab, 2022/08/16-22:35:41
+Creator Tool                    : NIKON D750 Ver.1.13
+Metadata Date                   : 2023:01:25 00:28-05:00
+Lens                            : 50.0 mm f/1.8
+Image Number                    : 5258
+Approximate Focus Distance      : 0.71
+Distortion Correction Already Applied: True
+Vignette Correction Already Applied: True
+Date Created                    : 2023:01:24 23:30:47.011
+Color Mode                      : RGB
+ICC Profile Name                : Display P3
+Document ID                     : adobe:docid:photoshop:0aea187e-5e1f-274b-9b63-a415aaf5dc62
+Original Document ID            : 4750F98763305FEFC95076EC241CC1AA
+Instance ID                     : xmp.iid:cbe8ce35-d7d7-496c-bc4b-21b1c0e9c0e6
+Format                          : image/jpeg
+Version                         : 15.1.1
+Process Version                 : 11.0
+Color Temperature               : 2850
+Tint                            : 0
+Exposure 2012                   : +0.40
+Contrast 2012                   : 0
+Highlights 2012                 : 0
+Shadows 2012                    : 0
+Whites 2012                     : 0
+Blacks 2012                     : 0
+Texture                         : 0
+Clarity 2012                    : 0
+Dehaze                          : 0
+Vibrance                        : 0
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Luminance Smoothing             : 0
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Grade Midtone Lum         : 0
+Color Grade Highlight Lum       : 0
+Color Grade Blending            : 50
+Color Grade Global Hue          : 0
+Color Grade Global Sat          : 0
+Color Grade Global Lum          : 0
+Auto Lateral CA                 : 0
+Lens Profile Enable             : 1
+Lens Manual Distortion Amount   : 0
+Vignette Amount                 : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Aspect              : 0
+Perspective Scale               : 100
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Grain Amount                    : 0
+Post Crop Vignette Amount       : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Override Look Vignette          : False
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 5F02E85A544BE2CCC1DFAA73D311C57C
+Lens Profile Setup              : LensDefaults
+Lens Profile Name               : Adobe (Nikon AF NIKKOR 50mm f/1.8D)
+Lens Profile Filename           : NIKON D3X (Nikon FX 50mm f1.8 D) - RAW.lcp
+Lens Profile Digest             : 2631CDFFF86EFCB6D111B3EFF75215B7
+Lens Profile Is Embedded        : False
+Lens Profile Distortion Scale   : 100
+Lens Profile Vignetting Scale   : 100
+Has Settings                    : True
+Has Crop                        : False
+Already Applied                 : True
+History Action                  : derived, saved, saved, converted, derived, saved, saved, converted, derived, saved
+History Parameters              : converted from image/x-nikon-nef to image/tiff, from image/tiff to application/vnd.adobe.photoshop, converted from image/tiff to application/vnd.adobe.photoshop, from application/vnd.adobe.photoshop to image/jpeg, converted from application/vnd.adobe.photoshop to image/jpeg
+History Instance ID             : xmp.iid:5ac15e15-68fc-4f5b-a521-efe8776bb212, xmp.iid:d6be040f-fbc6-4914-bb31-1c5c26be324f, xmp.iid:9a80f5da-6ef5-4e21-81d7-9564e961f7f2, xmp.iid:37fa91a5-5405-44e6-88ad-b82394cd07fb, xmp.iid:cbe8ce35-d7d7-496c-bc4b-21b1c0e9c0e6
+History When                    : 2023:01:24 23:52:46-05:00, 2023:01:25 00:24:53-05:00, 2023:01:25 00:24:53-05:00, 2023:01:25 00:28-05:00, 2023:01:25 00:28-05:00
+History Software Agent          : Adobe Photoshop Camera Raw 15.1.1 (Macintosh), Adobe Photoshop 24.1 (Macintosh), Adobe Photoshop 24.1 (Macintosh), Adobe Photoshop 24.1 (Macintosh), Adobe Photoshop 24.1 (Macintosh)
+History Changed                 : /, /, /, /, /
+Derived From Instance ID        : xmp.iid:37fa91a5-5405-44e6-88ad-b82394cd07fb
+Derived From Document ID        : xmp.did:9a80f5da-6ef5-4e21-81d7-9564e961f7f2
+Derived From Original Document ID: 4750F98763305FEFC95076EC241CC1AA
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Look Name                       : Adobe Color
+Look Amount                     : 1
+Look UUID                       : B952C231111CD8E0ECCF14B86BAA7077
+Look Supports Amount            : false
+Look Supports Monochrome        : false
+Look Supports Output Referred   : false
+Look Copyright                  : © 2018 Adobe Systems, Inc.
+Look Group                      : Profiles
+Look Parameters Version         : 15.1.1
+Look Parameters Process Version : 11.0
+Look Parameters Convert To Grayscale: False
+Look Parameters Camera Profile  : Adobe Standard
+Look Parameters Look Table      : E1095149FDB39D7A057BAB208837E2E1
+Look Parameters Tone Curve PV2012: 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+Look Parameters Tone Curve PV2012 Red: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Green: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Blue: 0, 0, 255, 255
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2015:10:14 13:08:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : e5bb0e9867bd46cd4bbe446ebd1b7598
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2015
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 3806
+Image Height                    : 5701
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 7.1
+Image Size                      : 3806x5701
+Megapixels                      : 21.7
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/200
+Create Date                     : 2023:01:24 23:30:47.11
+Date/Time Original              : 2023:01:24 23:30:47.11
+Modify Date                     : 2023:01:25 00:28:00.11
+Thumbnail Image                 : (Binary data 10215 bytes, use -b option to extract)
+Date/Time Created               : 2023:01:24 23:30:47
+Circle Of Confusion             : 0.030 mm
+Depth Of Field                  : 0.08 m (0.67 - 0.75 m)
+Field Of View                   : 39.6 deg
+Focal Length                    : 50.0 mm (35 mm equivalent: 50.0 mm)
+Hyperfocal Distance             : 11.72 m
+Light Value                     : 11.6
+Lens ID                         : AF Nikkor 50mm f/1.8D

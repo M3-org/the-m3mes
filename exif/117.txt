@@ -1,0 +1,281 @@
+ExifTool Version Number         : 12.57
+File Name                       : 117.jpg
+Directory                       : .
+File Size                       : 27 MB
+File Modification Date/Time     : 2023:08:06 03:06:41-04:00
+File Access Date/Time           : 2023:08:06 03:26:47-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Description               : The Memes by 6529 SZN3 x CARDELUCCI
+Make                            : FUJIFILM
+Camera Model Name               : GFX 50R
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Capture One 23 Macintosh
+Modify Date                     : 2023:06:28 22:58:26
+Artist                          : JESSICA CARDELUCCI
+Copyright                       : 2023 CARDELUCCI
+Exposure Time                   : 1/400
+F Number                        : 18.0
+Exposure Program                : Manual
+ISO                             : 400
+Sensitivity Type                : Standard Output Sensitivity
+Standard Output Sensitivity     : 400
+Exif Version                    : 0230
+Date/Time Original              : 2023:02:06 12:38:43
+Create Date                     : 2023:02:06 12:38:43
+Shutter Speed Value             : 1/400
+Aperture Value                  : 18.0
+Brightness Value                : 10.13
+Exposure Compensation           : 0
+Max Aperture Value              : 4.0
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : No Flash
+Focal Length                    : 120.0 mm
+Exif Image Width                : 6529
+Exif Image Height               : 6529
+Focal Plane X Resolution        : 1876.363647
+Focal Plane Y Resolution        : 1876.363647
+Focal Plane Resolution Unit     : cm
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Manual
+White Balance                   : Auto
+Focal Length In 35mm Format     : 95 mm
+Scene Capture Type              : Standard
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+Serial Number                   : 13000201
+Lens Info                       : 120mm f/4
+Lens Make                       : FUJIFILM
+Lens Model                      : GF120mmF4 R LM OIS WR Macro
+Lens Serial Number              : 26C00300
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 1062
+Thumbnail Length                : 2672
+Profile CMM Type                : Adobe Systems Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2000:08:11 19:51:59
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : none
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Adobe Systems Inc.
+Profile ID                      : 0
+Profile Copyright               : Copyright 2000 Adobe Systems Incorporated
+Profile Description             : Adobe RGB (1998)
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Tone Reproduction Curve     : (Binary data 14 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 14 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+Red Matrix Column               : 0.60974 0.31111 0.01947
+Green Matrix Column             : 0.20528 0.62567 0.06087
+Blue Matrix Column              : 0.14919 0.06322 0.74457
+Current IPTC Digest             : d78230bdd5688499052b3439d4968757
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Time Created                    : 12:38:43
+Digital Creation Date           : 2023:02:06
+Digital Creation Time           : 12:38:43
+By-line                         : JESSICA CARDELUCCI
+Province-State                  : California
+Country-Primary Location Name   : United States of America
+Copyright Notice                : 2023 CARDELUCCI
+Caption-Abstract                : The Memes by 6529 SZN3 x CARDELUCCI
+XMP Toolkit                     : XMP Core 5.5.0
+Metadata Date                   : 2023:06:28 22:58:26-07:00
+Creator Tool                    : Capture One 23 Macintosh
+Fuji Rating Already Applied     : True
+Lens                            : GF120mmF4 R LM OIS WR Macro
+Lateral Chromatic Aberration Correction Already Applied: True
+Vignette Correction Already Applied: True
+Date Created                    : 2023:02:06 12:38:43
+Legacy IPTC Digest              : D78230BDD5688499052B3439D4968757
+Headline                        : Pepe House
+City                            : Newport Beach
+State                           : California
+Country                         : United States of America
+Document ID                     : adobe:docid:photoshop:12d22411-15ee-5941-929e-667f4f2bef70
+Original Document ID            : 4C5F2B229B6E650C77ACEA4251E7E0D7
+Instance ID                     : xmp.iid:a4d45e8c-6282-4ddf-b217-a8101afe56fe
+Version                         : 14.5
+Process Version                 : 11.0
+Color Temperature               : 4600
+Tint                            : +20
+Exposure 2012                   : 0.00
+Contrast 2012                   : 0
+Highlights 2012                 : 0
+Shadows 2012                    : 0
+Whites 2012                     : 0
+Blacks 2012                     : 0
+Texture                         : 0
+Clarity 2012                    : 0
+Dehaze                          : 0
+Vibrance                        : 0
+Saturation                      : 0
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Luminance Smoothing             : 0
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Grade Midtone Lum         : 0
+Color Grade Highlight Lum       : 0
+Color Grade Blending            : 50
+Color Grade Global Hue          : 0
+Color Grade Global Sat          : 0
+Color Grade Global Lum          : 0
+Auto Lateral CA                 : 1
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Vignette Amount                 : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Aspect              : 0
+Perspective Scale               : 100
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Grain Amount                    : 0
+Post Crop Vignette Amount       : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Override Look Vignette          : False
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 4B6D2277BBED022A2FD33CA877D575A7
+Has Settings                    : True
+Has Crop                        : False
+Already Applied                 : True
+Transformation                  : Perspective
+Virtual Focal Length            : 1.923258
+Virtual Image X Center          : 0.424876
+Virtual Image Y Center          : 0.273305
+Location                        : 
+Text Layer Name                 : PEPE HOUSE
+Text Layer Text                 : PEPE HOUSE
+Document Ancestors              : adobe:docid:photoshop:12d22411-15ee-5941-929e-667f4f2bef70, adobe:docid:photoshop:1976be25-7de5-a447-b1fc-1a53410182c6, adobe:docid:photoshop:c57bdf4f-f9d8-cd44-ba0d-4eff51ab282f, xmp.did:22b7d7ff-ac4d-4712-904f-535c97b2ca2d
+History Action                  : derived, saved, saved, converted, derived, saved, saved
+History Parameters              : converted from image/x-fuji-raw to image/tiff, from image/jpeg to image/tiff, converted from image/jpeg to image/tiff
+History Instance ID             : xmp.iid:22b7d7ff-ac4d-4712-904f-535c97b2ca2d, xmp.iid:464e6dc7-fd40-4221-9aee-e118e3186717, xmp.iid:67cb02f9-5735-4a35-80bb-b77aefadbcfb, xmp.iid:a4d45e8c-6282-4ddf-b217-a8101afe56fe
+History When                    : 2023:02:07 01:34:43-08:00, 2023:06:16 09:57:40-07:00, 2023:06:16 09:57:40-07:00, 2023:06:28 22:58:26-07:00
+History Software Agent          : Adobe Photoshop Camera Raw 14.5 (Macintosh), Adobe Photoshop 24.5 (Macintosh), Adobe Photoshop 24.5 (Macintosh), Adobe Photoshop 24.5 (Macintosh)
+History Changed                 : /, /, /, /
+Derived From Instance ID        : xmp.iid:464e6dc7-fd40-4221-9aee-e118e3186717
+Derived From Document ID        : adobe:docid:photoshop:c57bdf4f-f9d8-cd44-ba0d-4eff51ab282f
+Derived From Original Document ID: 4C5F2B229B6E650C77ACEA4251E7E0D7
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Look Name                       : Adobe Color
+Look Amount                     : 1
+Look UUID                       : B952C231111CD8E0ECCF14B86BAA7077
+Look Supports Amount            : false
+Look Supports Monochrome        : false
+Look Supports Output Referred   : false
+Look Copyright                  : © 2018 Adobe Systems, Inc.
+Look Group                      : Profiles
+Look Parameters Version         : 14.5
+Look Parameters Process Version : 11.0
+Look Parameters Convert To Grayscale: False
+Look Parameters Camera Profile  : Adobe Standard
+Look Parameters Look Table      : E1095149FDB39D7A057BAB208837E2E1
+Look Parameters Tone Curve PV2012: 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+Look Parameters Tone Curve PV2012 Red: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Green: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Blue: 0, 0, 255, 255
+Creator Work URL                : cardelucci.com
+Description                     : The Memes by 6529 SZN3 x CARDELUCCI
+Rights                          : 2023 CARDELUCCI
+Creator                         : JESSICA CARDELUCCI
+Usage Terms                     : CC0
+Image Width                     : 6529
+Image Height                    : 6529
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 18.0
+Image Size                      : 6529x6529
+Megapixels                      : 42.6
+Scale Factor To 35 mm Equivalent: 0.8
+Shutter Speed                   : 1/400
+Thumbnail Image                 : (Binary data 2672 bytes, use -b option to extract)
+Date/Time Created               : 2023:02:06 12:38:43
+Digital Creation Date/Time      : 2023:02:06 12:38:43
+Circle Of Confusion             : 0.038 mm
+Field Of View                   : 21.5 deg
+Focal Length                    : 120.0 mm (35 mm equivalent: 95.0 mm)
+Hyperfocal Distance             : 21.08 m
+Light Value                     : 15.0
+Lens ID                         : GF120mm F4 R LM OIS WR Macro

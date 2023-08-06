@@ -1,0 +1,295 @@
+ExifTool Version Number         : 12.57
+File Name                       : 105.jpg
+Directory                       : .
+File Size                       : 26 MB
+File Modification Date/Time     : 2023:08:06 03:06:24-04:00
+File Access Date/Time           : 2023:08:06 03:30:44-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:47-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Compression                     : LZW
+Photometric Interpretation      : RGB
+Make                            : SONY
+Camera Model Name               : ILCE-7RM2
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 3
+X Resolution                    : 300
+Y Resolution                    : 300
+Planar Configuration            : Chunky
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 24.1 (Windows)
+Modify Date                     : 2023:05:30 01:27:13
+Exposure Time                   : 1/6
+F Number                        : 6.3
+Exposure Program                : Manual
+ISO                             : 400
+Sensitivity Type                : Recommended Exposure Index
+Recommended Exposure Index      : 400
+Exif Version                    : 0230
+Date/Time Original              : 2022:11:14 18:07:20
+Create Date                     : 2022:11:14 18:07:20
+Shutter Speed Value             : 1/6
+Aperture Value                  : 6.3
+Brightness Value                : 2.97421875
+Exposure Compensation           : +2
+Max Aperture Value              : 2.8
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 28.0 mm
+Color Space                     : sRGB
+Exif Image Width                : 7952
+Exif Image Height               : 5304
+Focal Plane X Resolution        : 2164.4328
+Focal Plane Y Resolution        : 2164.4328
+Focal Plane Resolution Unit     : cm
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto bracket
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 28 mm
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Lens Info                       : 28-75mm f/2.8
+Lens Model                      : E 28-75mm F2.8-2.8
+Thumbnail Offset                : 1034
+Thumbnail Length                : 4978
+Current IPTC Digest             : fd24aeb4e7a66d7fd9d5a79cde05f4d6
+Coded Character Set             : UTF8
+Application Record Version      : 0
+Time Created                    : 18:07:20
+IPTC Digest                     : fd24aeb4e7a66d7fd9d5a79cde05f4d6
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : Jose Ramos 6529 Meme 1
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 4978 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2023
+Photoshop Quality               : 12
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 9.0-c000 79.171c27f, 2022/08/16-18:02:43
+Creator Tool                    : ILCE-7RM2 v4.01
+Metadata Date                   : 2023:05:30 01:27:13+01:00
+Lens                            : E 28-75mm F2.8-2.8
+Lens Distort Info               : 33307/32768 -66475008/1073741824 27162364/1073741824 4954660/1073741824
+Lateral Chromatic Aberration Correction Already Applied: True
+Date Created                    : 2022:11:14 18:07:20
+Color Mode                      : RGB
+ICC Profile Name                : sRGB IEC61966-2.1
+Document ID                     : adobe:docid:photoshop:89cf04d8-a4d4-6648-824b-d1fe39f2cfbc
+Original Document ID            : 6E5A4AB9C8F8C0DE15BEF8B59DFC1E97
+Instance ID                     : xmp.iid:35877c85-2e86-2342-93a4-6428e123b234
+Format                          : image/jpeg
+Version                         : 15.1.1
+Process Version                 : 11.0
+Color Temperature               : 5450
+Tint                            : +38
+Exposure 2012                   : +0.10
+Contrast 2012                   : +15
+Highlights 2012                 : 0
+Shadows 2012                    : 0
+Whites 2012                     : 0
+Blacks 2012                     : 0
+Texture                         : 0
+Clarity 2012                    : -4
+Dehaze                          : 0
+Vibrance                        : +15
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Luminance Smoothing             : 0
+Color Noise Reduction           : 25
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Color Grade Midtone Hue         : 0
+Color Grade Midtone Sat         : 0
+Color Grade Shadow Lum          : 0
+Color Grade Midtone Lum         : 0
+Color Grade Highlight Lum       : 0
+Color Grade Blending            : 50
+Color Grade Global Hue          : 0
+Color Grade Global Sat          : 0
+Color Grade Global Lum          : 0
+Auto Lateral CA                 : 0
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Vignette Amount                 : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Aspect              : 0
+Perspective Scale               : 100
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Grain Amount                    : 0
+Post Crop Vignette Amount       : -38
+Post Crop Vignette Midpoint     : 18
+Post Crop Vignette Feather      : 83
+Post Crop Vignette Roundness    : 0
+Post Crop Vignette Style        : Highlight Priority
+Post Crop Vignette Highlight Contrast: 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Override Look Vignette          : False
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : D360A2DBD2CA77BB5DA0C19FEDBEE62D
+Has Settings                    : True
+Has Crop                        : False
+Already Applied                 : True
+History Action                  : derived, saved, saved, derived, saved, saved, converted, derived, saved, saved, converted, derived, saved
+History Parameters              : converted from image/x-sony-arw to image/tiff, converted from image/tiff to application/vnd.adobe.photoshop, from application/vnd.adobe.photoshop to image/tiff, converted from application/vnd.adobe.photoshop to image/tiff, from image/tiff to image/jpeg, converted from image/tiff to image/jpeg
+History Instance ID             : xmp.iid:c07b282e-0fe8-ff48-a0c4-eb9e10145ba4, xmp.iid:80feb317-a185-0a48-8c77-47e94dcfae13, xmp.iid:083b5809-4df2-6745-b25c-e5980d1c94cf, xmp.iid:77020da0-0c4d-9147-b1ec-7dc5b61d159f, xmp.iid:4c01f608-eaed-fe4e-bd1d-420f35153106, xmp.iid:e36031c6-8b57-9648-89f2-072fb78e6edb, xmp.iid:35877c85-2e86-2342-93a4-6428e123b234
+History When                    : 2023:01:30 02:15:35Z, 2023:05:29 22:49:16+01:00, 2023:05:29 23:01:36+01:00, 2023:05:29 23:06:50+01:00, 2023:05:29 23:06:50+01:00, 2023:05:30 01:27:13+01:00, 2023:05:30 01:27:13+01:00
+History Software Agent          : Adobe Photoshop Camera Raw 15.1.1 (Windows), Adobe Photoshop 24.1 (Windows), Adobe Photoshop 24.1 (Windows), Adobe Photoshop 24.1 (Windows), Adobe Photoshop 24.1 (Windows), Adobe Photoshop 24.1 (Windows), Adobe Photoshop 24.1 (Windows)
+History Changed                 : /, /, /, /, /, /, /
+Derived From Instance ID        : xmp.iid:e36031c6-8b57-9648-89f2-072fb78e6edb
+Derived From Document ID        : adobe:docid:photoshop:4cdc9389-9158-f242-a358-52c9198b600f
+Derived From Original Document ID: 6E5A4AB9C8F8C0DE15BEF8B59DFC1E97
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Look Name                       : Adobe Color
+Look Amount                     : 1
+Look UUID                       : B952C231111CD8E0ECCF14B86BAA7077
+Look Supports Amount            : false
+Look Supports Monochrome        : false
+Look Supports Output Referred   : false
+Look Copyright                  : © 2018 Adobe Systems, Inc.
+Look Group                      : Profiles
+Look Parameters Version         : 15.1.1
+Look Parameters Process Version : 11.0
+Look Parameters Convert To Grayscale: False
+Look Parameters Camera Profile  : Adobe Standard
+Look Parameters Look Table      : E1095149FDB39D7A057BAB208837E2E1
+Look Parameters Tone Curve PV2012: 0, 0, 22, 16, 40, 35, 127, 127, 224, 230, 240, 246, 255, 255
+Look Parameters Tone Curve PV2012 Red: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Green: 0, 0, 255, 255
+Look Parameters Tone Curve PV2012 Blue: 0, 0, 255, 255
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 7952
+Image Height                    : 5304
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 6.3
+Image Size                      : 7952x5304
+Megapixels                      : 42.2
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/6
+Thumbnail Image                 : (Binary data 4978 bytes, use -b option to extract)
+Date/Time Created               : 2022:11:14 18:07:20
+Circle Of Confusion             : 0.030 mm
+Field Of View                   : 65.5 deg
+Focal Length                    : 28.0 mm (35 mm equivalent: 28.0 mm)
+Hyperfocal Distance             : 4.14 m
+Light Value                     : 5.9
+Lens ID                         : E 28-75mm F2.8-2.8

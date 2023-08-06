@@ -1,0 +1,30 @@
+ExifTool Version Number         : 12.57
+File Name                       : 38.gif
+Directory                       : .
+File Size                       : 6.2 MB
+File Modification Date/Time     : 2023:08:06 03:04:56-04:00
+File Access Date/Time           : 2023:08:06 03:17:49-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 2040
+Image Height                    : 3644
+Has Color Map                   : Yes
+Color Resolution Depth          : 5
+Bits Per Pixel                  : 5
+Background Color                : 31
+Animation Iterations            : Infinite
+XMP Toolkit                     : Adobe XMP Core 7.1-c000 79.eda2b3fac, 2021/11/17-17:23:19
+Creator Tool                    : Adobe Photoshop 23.1 (Windows)
+Instance ID                     : xmp.iid:9CCC35086AEA11ED8AE898D8AA351743
+Document ID                     : xmp.did:9CCC35096AEA11ED8AE898D8AA351743
+Derived From Instance ID        : xmp.iid:9CCC35066AEA11ED8AE898D8AA351743
+Derived From Document ID        : xmp.did:9CCC35076AEA11ED8AE898D8AA351743
+Transparent Color               : 31
+Frame Count                     : 29
+Duration                        : 1.74 s
+Image Size                      : 2040x3644
+Megapixels                      : 7.4

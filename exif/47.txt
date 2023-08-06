@@ -1,0 +1,24 @@
+ExifTool Version Number         : 12.57
+File Name                       : 47.gif
+Directory                       : .
+File Size                       : 17 MB
+File Modification Date/Time     : 2023:08:06 03:05:05-04:00
+File Access Date/Time           : 2023:08:06 03:17:58-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 2091
+Image Height                    : 3000
+Has Color Map                   : Yes
+Color Resolution Depth          : 3
+Bits Per Pixel                  : 3
+Background Color                : 6
+Animation Iterations            : Infinite
+Transparent Color               : 6
+Frame Count                     : 28
+Duration                        : 2.24 s
+Image Size                      : 2091x3000
+Megapixels                      : 6.3

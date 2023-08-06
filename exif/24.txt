@@ -1,0 +1,30 @@
+ExifTool Version Number         : 12.57
+File Name                       : 24.jpg
+Directory                       : .
+File Size                       : 384 kB
+File Modification Date/Time     : 2023:08:06 03:04:44-04:00
+File Access Date/Time           : 2023:08:06 03:30:58-04:00
+File Inode Change Date/Time     : 2023:08:06 03:26:46-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 225
+Y Resolution                    : 225
+Resolution Unit                 : inches
+Color Space                     : sRGB
+Exif Image Width                : 3001
+Exif Image Height               : 1688
+Current IPTC Digest             : d41d8cd98f00b204e9800998ecf8427e
+IPTC Digest                     : d41d8cd98f00b204e9800998ecf8427e
+Image Width                     : 3001
+Image Height                    : 1688
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 3001x1688
+Megapixels                      : 5.1
